@@ -1,5 +1,11 @@
 <application>
   <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssColorPreviewInGutter" value="false" />
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
