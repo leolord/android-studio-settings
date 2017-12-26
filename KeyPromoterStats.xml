@@ -32,6 +32,7 @@
         <entry key="'⌥⇧⌘C'" value="5" />
         <entry key="'⌥⌘B' or '⌥⌘Button1 Click'" value="5" />
         <entry key="'⌥⌘M'" value="1" />
+        <entry key="'⌥⌘↓'" value="1" />
         <entry key="'⌦' or '⌫' or '⌘⌫'" value="1" />
       </map>
     </option>
