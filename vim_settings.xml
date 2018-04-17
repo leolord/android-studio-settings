@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523956361185">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="30" />
+      <file name="/start_script.py" timestamp="1523956629432">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523956681242">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="9" />
       </file>
     </filemarks>
     <jumps />
@@ -16,18 +19,21 @@
         <text>declarative_base</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+        <text encoding="base64">REJTZXNzaW9uLgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+        <text encoding="base64">REJTZXNzaW9uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
@@ -42,9 +48,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
