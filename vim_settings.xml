@@ -1,0 +1,51 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523956361185">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="4">
+        <text>declarative_base</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>declarative_base</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
