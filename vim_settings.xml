@@ -13,11 +13,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524021790168">
+      <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524022657798">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -26,7 +27,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>declarative_base</text>
@@ -35,25 +36,25 @@
         <text>declarative_base</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REJTZXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+        <text encoding="base64">REJTZXNzaW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
