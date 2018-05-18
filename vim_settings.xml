@@ -6,6 +6,11 @@
       <file name="/start_script.py" timestamp="1523956629432">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" timestamp="1526630844242">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="30" />
+      </file>
       <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523960726391">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
@@ -20,20 +25,37 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
+        <mark key="'" line="67" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
       <jump line="8" column="0" filename="$USER_HOME$/work/test/flask/app/app.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="99" column="11" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="5" column="5" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="120" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="28" column="30" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="100" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
+      <jump line="44" column="16" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, send_from_directory</text>
+        <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
         <text>, send_from_directory</text>
       </register>
       <register name="0" type="4">
-        <text>declarative_base</text>
+        <text>get_nsq_reader</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
@@ -74,10 +96,15 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
