@@ -38,7 +38,7 @@
         <mark key="]" line="35" column="67" />
         <mark key="." line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526815734585">
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526815792096">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -75,7 +75,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IC4uZ2xvYmFsCg==</text>
+        <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -84,31 +84,31 @@
         <text encoding="base64">c3RhdF9tZXRyaWNzIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IC4uZ2xvYmFsCg==</text>
+        <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuY3Rpb25zIGltcG9ydCBnZXRfCg==</text>
+        <text encoding="base64">ZnJvbSBnYW1lX3N0YXQuZ2xvYmFsX2Z1bmN0aW9ucyBpbXBvcnQgZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
+        <text encoding="base64">ZnJvbXQgZ2FtZV9zdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IC4uZ2xvYmFsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuY3Rpb25zIGltcG9ydCBnZXRfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REJTZXNzaW9uLgo=</text>
+        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
