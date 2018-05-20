@@ -1,5 +1,1 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl meta alt f4" />
-  </action>
-</keymap>
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X" />
