@@ -43,6 +43,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526817485540" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
