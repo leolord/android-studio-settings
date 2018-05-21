@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1523956629432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" timestamp="1526873896800">
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" timestamp="1526875067137">
         <mark key="'" line="100" column="24" />
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="17" />
@@ -30,13 +30,15 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526873452889">
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
         <mark key="'" line="82" column="21" />
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="79" column="46" />
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="28" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="86" column="28" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_install_stat.py" timestamp="1526818996485" />
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526817627603">
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526875168700">
         <mark key="'" line="67" column="20" />
         <mark key="[" line="35" column="54" />
         <mark key="]" line="35" column="67" />
