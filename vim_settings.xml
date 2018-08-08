@@ -23,6 +23,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="/Python Console" timestamp="1533706905422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="32" />
@@ -30,12 +33,8 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
-        <mark key="'" line="82" column="21" />
-        <mark key="[" line="86" column="27" />
-        <mark key="]" line="86" column="28" />
-        <mark key="^" line="86" column="28" />
-        <mark key="." line="86" column="28" />
+      <file name="/a.dummy" timestamp="1533707000364">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_install_stat.py" timestamp="1526975598853">
         <mark key="[" line="53" column="41" />
@@ -47,11 +46,24 @@
         <mark key="]" line="35" column="67" />
         <mark key="." line="35" column="54" />
       </file>
+      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533707016127">
+        <mark key="[" line="20" column="92" />
+        <mark key="]" line="20" column="92" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="20" column="92" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526882471883">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="49" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
+        <mark key="'" line="82" column="21" />
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="28" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="86" column="28" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
         <mark key="'" line="75" column="11" />
@@ -106,7 +118,7 @@
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
