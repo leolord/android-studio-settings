@@ -46,11 +46,11 @@
         <mark key="]" line="35" column="67" />
         <mark key="." line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533707016127">
-        <mark key="[" line="20" column="92" />
-        <mark key="]" line="20" column="92" />
+      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533707275564">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
         <mark key="^" line="6" column="0" />
-        <mark key="." line="20" column="92" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526882471883">
         <mark key="'" line="73" column="12" />
@@ -118,7 +118,7 @@
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
