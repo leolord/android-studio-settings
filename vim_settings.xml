@@ -23,8 +23,15 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1533706905422">
+      <file name="/Python Console" timestamp="1533880018379">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="45" />
+        <mark key="." line="62" column="45" />
+        <mark key="^" line="62" column="45" />
       </file>
       <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
         <mark key="'" line="8" column="0" />
@@ -124,47 +131,48 @@
       <jump line="18" column="18" filename="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" />
       <jump line="19" column="48" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
       <jump line="30" column="0" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
+      <jump line="55" column="27" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
+      <jump line="51" column="32" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-34, -2</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5pyA566A5Y2V55qE5pyA5bCP5LqM5LmY5rOV5a6e546wIiIiCgppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBudW1weSBhcyBucAoKCmNsYXNzIFNpbXBsZUxhdGVzdFNxdWFyZXMob2JqZWN0KToKICAgICIiIgogICAg5LiA5Liq5beo566A5Y2V55qE5pyA5bCP5LqM5LmY5rOV5a6e546wCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdywgYik6CiAgICAgICAgc2VsZi5yZWFsX3cgPSB3CiAgICAgICAgc2VsZi5yZWFsX2IgPSBiCiAgICAgICAgc2VsZi5ndWVzc193ID0gMAogICAgICAgIHNlbGYuZ3Vlc3NfYiA9IDAKICAgICAgICBzZWxmLnggPSBbXQogICAgICAgIHNlbGYueSA9IFtdCgogICAgZGVmIHJhbmRvbV9yYXdfZGF0YShzZWxmLCBiYXNlPTEwLCBtaW5fdmFsdWU9LTEwMDAsIG1heF92YWx1ZT0xMDAwLCBub2lzZV9jb2VmZmljaWVudD0zMDApOgogICAgICAgICIiIgogICAgICAgIOm7mOiupOeUn+aIkDEwMDDkuKrmlbDmja7ngrnvvIzpmo/mnLrnlJ/miJDvvIx455qE5Y+W5YC86IyD5Zu05YC85ZyoLTEwMCB+IDEwMOmXtAogICAgICAgICIiIgogICAgICAgIG5vaXNlID0gKG5wLnJhbmRvbS5yYW5kKDEsIGJhc2UpIC0gMC41KSAqIG5vaXNlX2NvZWZmaWNpZW50CgogICAgICAgIHNlbGYueCA9IG5wLmxpbnNwYWNlKG1pbl92YWx1ZSwgbWF4X3ZhbHVlLCBiYXNlKQogICAgICAgIHNlbGYueSA9IHNlbGYueCAqIHNlbGYucmVhbF93ICsgc2VsZi5yZWFsX2IgKyBub2lzZQoKICAgIGRlZiBjb21wdXRlKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIOiuoeeul3flkoxi55qE5YC8CiAgICAgICAgIiIiCiAgICAgICAgeCA9IHNlbGYueAogICAgICAgIHkgPSBzZWxmLnkKICAgICAgICBhdmVyYWdlX3ggPSB4Lm1lYW4oKQogICAgICAgIG0gPSB4LnNoYXBlWzBdCgogICAgICAgIHNlbGYuZ3Vlc3NfdyA9IG5wLnN1bSh5ICogKHggLSBhdmVyYWdlX3gpKSAvIChucC5zdW0obnAucG93ZXIoeCwgMikpIC0gbnAuc3VtKHgpICoqIDIgLyBtKQogICAgICAgIHNlbGYuZ3Vlc3NfYiA9IG5wLnN1bSh5IC0geCAqIHNlbGYuZ3Vlc3NfdykgLyBtCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICIiIuWOn3cgPSB7MDpmfSDljp9iID0gezE6Zn0K6aKE5rWL55qEdyA9IHsyOmZ9IOmihOa1i+eahGIgPSB7MzpmfQogICAgIiIiLmZvcm1hdChzZWxmLnJlYWxfdywgc2VsZi5yZWFsX2IsIHNlbGYuZ3Vlc3Nfdywgc2VsZi5ndWVzc19iKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBzbHMgPSBTaW1wbGVMYXRlc3RTcXVhcmVzKC0zNCwgLTIpCiAgICBzbHMucmFuZG9tX3Jhd19kYXRhKCkKICAgIHByaW50KHNscykKICAgIHNscy5jb21wdXRlKCkKICAgIHByaW50KHNscykKCiAgICBwbHQucGxvdChzbHMueCwgc2xzLnkuVCwgJ3JvJykKICAgIGd1ZXNzX3kgPSBzbHMueCAqIHNscy5ndWVzc193ICsgc2xzLmd1ZXNzX2IKICAgIHBsdC5wbG90KHNscy54LCBndWVzc195LlQpCiAgICBwbHQuc2hvdygpCg==</text>
+      <register name="0" type="4">
+        <text>matplotlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNscykKICAgIHNscy5jb21wdXRlKCkKICAgIHByaW50KHNscykKCiAgICBwbHQucGxvdChzbHMueCwgc2xzLnkuVCwgJ3JvJykKICAgIGd1ZXNzX3kgPSBzbHMueCAqIHNscy5ndWVzc193ICsgc2xzLmd1ZXNzX2IKICAgIHBsdC5wbG90KHNscy54LCBndWVzc195LlQpCiAgICBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>原w = {0:f} 原b = {1:f}
-预测的w = {2:f} 预测的b = {3:f}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi54CiAgICAgICAgeSA9IHNlbGYueQogICAgICAgIGF2ZXJhZ2VfeCA9IHgubWVhbigpCiAgICAgICAgbSA9IHguc2hhcGVbMF0KCiAgICAgICAgc2VsZi5ndWVzc193ID0gbnAuc3VtKHkgKiAoeCAtIGF2ZXJhZ2VfeCkpIC8gKG5wLnN1bShucC5wb3dlcih4LCAyKSkgLSBucC5zdW0oeCkgKiogMiAvIG0pCiAgICAgICAgc2VsZi5ndWVzc19iID0gbnAuc3VtKHkgLSB4ICogc2VsZi5ndWVzc193KSAvIG0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSBucC5saW5zcGFjZShtaW5fdmFsdWUsIG1heF92YWx1ZSwgYmFzZSkKICAgICAgICBzZWxmLnkgPSBzZWxmLnggKiBzZWxmLnJlYWxfdyArIHNlbGYucmVhbF9iICsgbm9pc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmd1ZXNzX2IgPSAwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmd1ZXNzX3cgPSAwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNscykKICAgIHNscy5jb21wdXRlKCkKICAgIHByaW50KHNscykKCiAgICBwbHQucGxvdChzbHMueCwgc2xzLnkuVCwgJ3JvJykKICAgIGd1ZXNzX3kgPSBzbHMueCAqIHNscy5ndWVzc193ICsgc2xzLmd1ZXNzX2IKICAgIHBsdC5wbG90KHNscy54LCBndWVzc195LlQpCiAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -183,6 +191,7 @@
       </history-search>
       <history-cmd>
         <entry>=</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -191,6 +200,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
