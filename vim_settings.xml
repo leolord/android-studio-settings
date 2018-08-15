@@ -23,6 +23,16 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="/Python Console" timestamp="1533880018379">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="45" />
+        <mark key="." line="62" column="45" />
+        <mark key="^" line="62" column="45" />
+      </file>
       <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="32" />
@@ -30,12 +40,8 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
-        <mark key="'" line="82" column="21" />
-        <mark key="[" line="86" column="27" />
-        <mark key="]" line="86" column="28" />
-        <mark key="^" line="86" column="28" />
-        <mark key="." line="86" column="28" />
+      <file name="/a.dummy" timestamp="1533707000364">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_install_stat.py" timestamp="1526975598853">
         <mark key="[" line="53" column="41" />
@@ -47,11 +53,32 @@
         <mark key="]" line="35" column="67" />
         <mark key="." line="35" column="54" />
       </file>
+      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533819397110">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="16" column="24" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526882471883">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="49" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
+        <mark key="'" line="82" column="21" />
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="28" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="86" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" timestamp="1533820057774">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="43" column="12" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
         <mark key="'" line="75" column="11" />
@@ -100,46 +127,52 @@
       <jump line="100" column="24" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
       <jump line="75" column="11" filename="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" />
       <jump line="73" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" />
+      <jump line="24" column="41" filename="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" />
+      <jump line="18" column="18" filename="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" />
+      <jump line="19" column="48" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
+      <jump line="55" column="27" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
+      <jump line="51" column="32" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>TARGET_CLIENT_KEY</text>
+        <text>matplotlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBnYW1lX3N0YXQuZ2xvYmFsX2Z1bmN0aW9ucyBpbXBvcnQgZ2UK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbXQgZ2FtZV9zdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IC4uZ2xvYmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuY3Rpb25zIGltcG9ydCBnZXRfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNscykKICAgIHNscy5jb21wdXRlKCkKICAgIHByaW50KHNscykKCiAgICBwbHQucGxvdChzbHMueCwgc2xzLnkuVCwgJ3JvJykKICAgIGd1ZXNzX3kgPSBzbHMueCAqIHNscy5ndWVzc193ICsgc2xzLmd1ZXNzX2IKICAgIHBsdC5wbG90KHNscy54LCBndWVzc195LlQpCiAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -158,6 +191,7 @@
       </history-search>
       <history-cmd>
         <entry>=</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -166,6 +200,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
