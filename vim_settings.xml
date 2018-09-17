@@ -47,11 +47,12 @@
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/lianchi_python/views/login.py" timestamp="1537179112760">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/repos/lianchi_python/views/login.py" timestamp="1537181123550">
+        <mark key="'" line="8" column="61" />
+        <mark key="[" line="8" column="77" />
+        <mark key="]" line="8" column="77" />
+        <mark key="." line="8" column="77" />
+        <mark key="^" line="8" column="77" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526875168700">
         <mark key="'" line="67" column="20" />
@@ -145,13 +146,16 @@
       <jump line="30" column="0" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
       <jump line="55" column="27" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
       <jump line="51" column="32" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
+      <jump line="7" column="61" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
@@ -160,31 +164,31 @@
         <text>matplotlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvYWRlci4K</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
+        <text encoding="base64">ICAgIGxvYWRlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
