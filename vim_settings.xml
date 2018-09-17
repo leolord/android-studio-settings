@@ -47,11 +47,11 @@
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/lianchi_python/views/login.py" timestamp="1537174158673">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
+      <file name="$USER_HOME$/repos/lianchi_python/views/login.py" timestamp="1537179112760">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526875168700">
         <mark key="'" line="67" column="20" />
@@ -66,7 +66,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/lianchi_python/urls.py" timestamp="1537174240169" />
+      <file name="$USER_HOME$/repos/lianchi_python/settings_local.py" timestamp="1537179232637">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526882471883">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="25" column="29" />
@@ -146,7 +151,7 @@
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
