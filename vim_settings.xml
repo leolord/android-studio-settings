@@ -47,6 +47,12 @@
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="57" />
       </file>
+      <file name="$USER_HOME$/repos/lianchi_python/views/login.py" timestamp="1537174158673">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526875168700">
         <mark key="'" line="67" column="20" />
         <mark key="[" line="35" column="54" />
@@ -60,6 +66,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/repos/lianchi_python/urls.py" timestamp="1537174240169" />
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526882471883">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="25" column="29" />
@@ -139,7 +146,7 @@
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
@@ -148,31 +155,31 @@
         <text>matplotlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
+        <text encoding="base64">ICAgIGxvYWRlci4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNscykKICAgIHNscy5jb21wdXRlKCkKICAgIHByaW50KHNscykKCiAgICBwbHQucGxvdChzbHMueCwgc2xzLnkuVCwgJ3JvJykKICAgIGd1ZXNzX3kgPSBzbHMueCAqIHNscy5ndWVzc193ICsgc2xzLmd1ZXNzX2IKICAgIHBsdC5wbG90KHNscy54LCBndWVzc195LlQpCiAgICBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
