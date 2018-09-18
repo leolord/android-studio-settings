@@ -40,6 +40,10 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
+      <file name="$USER_HOME$/repos/lianchi_python/settings.py" timestamp="1537275293634">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="16" />
+      </file>
       <file name="/a.dummy" timestamp="1533707000364">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,7 +170,7 @@
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>matplotlib</text>
+        <text>artemis</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUgaW1wb3J0IGxvYWRlciwgQ29udGV4dApmcm9tIGRqYW5nby5odHRwIGltcG9ydCBIdHRwUmVzcG9uc2UK</text>
