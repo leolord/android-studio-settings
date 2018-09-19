@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1523956629432">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest_new/version.py" timestamp="1537350863054" />
       <file name="$USER_HOME$/repos/ss_conf/ss/db_paydb.conf" timestamp="1537349962941">
         <mark key="[" line="11" column="23" />
@@ -18,9 +15,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
-      </file>
-      <file name="/Python Console" timestamp="1537173684244">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
         <mark key="'" line="51" column="32" />
@@ -36,16 +30,16 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="/a.dummy" timestamp="1533707000364">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/adweb/run/uwsgi_ad_web_run/run" timestamp="1537344517456">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/repos/adweb/conf/deploy.conf" timestamp="1537349859216" />
-      <file name="$USER_HOME$/repos/lianchi_python/urls.py" timestamp="1537238101347">
-        <mark key="[" line="13" column="25" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_classifier.py" timestamp="1537355796376" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/cache/base.py" timestamp="1537356254494" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/bdmonitor/bdmonitor.py" timestamp="1537355885954">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/shortcuts/__init__.py" timestamp="1537238357647" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest/version.py" timestamp="1537350781192" />
@@ -65,19 +59,13 @@
         <mark key="'" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1231287474/ss/abtest/VersionService.py" timestamp="1537350819982" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
       <file name="$USER_HOME$/repos/lianchi_python/settings.py" timestamp="1537275293634">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/django_alarm_handler.py" timestamp="1537351597910" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.hpp" timestamp="1537354465359" />
-      <file name="$USER_HOME$/repos/lianchi_python/views/login.py" timestamp="1537238005407">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="7" column="42" />
-      </file>
       <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533819397110">
         <mark key="'" line="18" column="18" />
         <mark key="[" line="0" column="0" />
@@ -105,9 +93,14 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/cluster/canopy.py" timestamp="1537356676195">
+        <mark key="[" line="57" column="44" />
+        <mark key="]" line="57" column="52" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
         <mark key="'" line="75" column="11" />
       </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_detector.py" timestamp="1537355808764" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
@@ -188,7 +181,7 @@
         <text encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</text>
       </register>
       <register name="0" type="4">
-        <text>flights</text>
+        <text>euclidean</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIHR5cGUoWEFfKSBpcyBub3QgbGlzdDoKICAgICAgICBYQV8gPSBbWEFfLCBdCg==</text>
