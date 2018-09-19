@@ -47,6 +47,10 @@
       <file name="/a.dummy" timestamp="1533707000364">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/adweb/run/uwsgi_ad_web_run/run" timestamp="1537344517456">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_install_stat.py" timestamp="1526975598853">
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="57" />
@@ -101,6 +105,7 @@
         <mark key="." line="43" column="12" />
         <mark key="^" line="43" column="12" />
       </file>
+      <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
         <mark key="'" line="75" column="11" />
       </file>
@@ -170,7 +175,7 @@
         <text encoding="base64">XDxhZF9rZXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>artemis</text>
+        <text encoding="base64">c2V0dWlkZ2lkIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUgaW1wb3J0IGxvYWRlciwgQ29udGV4dApmcm9tIGRqYW5nby5odHRwIGltcG9ydCBIdHRwUmVzcG9uc2UK</text>
