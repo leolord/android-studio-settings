@@ -16,6 +16,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/django/models.py" timestamp="1537412659731">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="109" />
+      </file>
       <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
         <mark key="'" line="51" column="32" />
         <mark key="[" line="62" column="37" />
@@ -60,6 +64,7 @@
         <mark key="'" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1231287474/ss/abtest/VersionService.py" timestamp="1537350819982" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/django/middleware/auth.py" timestamp="1537413193218" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
       <file name="$USER_HOME$/repos/lianchi_python/settings.py" timestamp="1537275293634">
         <mark key="[" line="11" column="10" />
@@ -74,7 +79,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" timestamp="1537412014189">
+        <mark key="'" line="9" column="67" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.i" timestamp="1537354421777" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/django/util.py" timestamp="1537412272347" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/__init__.py" timestamp="1537351482129" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance_a.py" timestamp="1537354381061">
         <mark key="'" line="22" column="11" />
@@ -86,6 +95,7 @@
         <mark key="^" line="86" column="28" />
         <mark key="." line="86" column="28" />
       </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/dingtalk/__init__.py" timestamp="1537412099719" />
       <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" timestamp="1537354160304">
         <mark key="'" line="142" column="4" />
@@ -170,6 +180,8 @@
       <jump line="9" column="4" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" />
       <jump line="142" column="4" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" />
       <jump line="22" column="11" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance_a.py" />
+      <jump line="3" column="26" filename="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" />
+      <jump line="9" column="67" filename="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -179,10 +191,10 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</text>
+        <text encoding="base64">XDxkZWZhdWx0c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>euclidean</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS90aG9hcy9kamFuZ28tc2VwYXJhdGVkdmFsdWVzZmllbGQvbWFzdGVyL3NlcGFyYXRlZHZhbHVlc2ZpZWxkL21vZGVscy5weQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIHR5cGUoWEFfKSBpcyBub3QgbGlzdDoKICAgICAgICBYQV8gPSBbWEFfLCBdCg==</text>
@@ -216,10 +228,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxkZWZhdWx0c1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -228,6 +240,7 @@
         <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfaG9zdF92Mlw+</entry>
         <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfcG9ydF92Mlw+</entry>
         <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</entry>
+        <entry encoding="base64">XDxkZWZhdWx0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
