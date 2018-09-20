@@ -4,35 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest_new/version.py" timestamp="1537350863054" />
-      <file name="$USER_HOME$/repos/ss_conf/ss/db_paydb.conf" timestamp="1537349962941">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="54" />
-      </file>
-      <file name="$USER_HOME$/repos/adweb/common/thrift.py" timestamp="1537350544325" />
       <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523960726391">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/django/models.py" timestamp="1537412659731">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="109" />
-      </file>
-      <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
-        <mark key="'" line="51" column="32" />
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="45" />
-        <mark key="." line="62" column="45" />
-        <mark key="^" line="62" column="45" />
-      </file>
-      <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/repos/adweb/run/uwsgi_ad_web_run/run" timestamp="1537344517456">
         <mark key="[" line="5" column="16" />
@@ -46,6 +23,63 @@
         <mark key="]" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/shortcuts/__init__.py" timestamp="1537238357647" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/counter_service/client.py" timestamp="1537357074180" />
+      <file name="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" timestamp="1537350224074">
+        <mark key="'" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1231287474/ss/abtest/VersionService.py" timestamp="1537350819982" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/hiveserver2_v2/__init__.py" timestamp="1537415314662" />
+      <file name="$USER_HOME$/repos/lianchi_python/settings.py" timestamp="1537275293634">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.hpp" timestamp="1537354465359" />
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_install_stat.py" timestamp="1526975598853">
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="57" />
+      </file>
+      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533819397110">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/cluster/canopy.py" timestamp="1537356676195">
+        <mark key="[" line="57" column="44" />
+        <mark key="]" line="57" column="52" />
+      </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
+        <mark key="'" line="75" column="11" />
+      </file>
+      <file name="$USER_HOME$/repos/ss_conf/ss/db_paydb.conf" timestamp="1537349962941">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="54" />
+      </file>
+      <file name="$USER_HOME$/repos/adweb/common/thrift.py" timestamp="1537350544325" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/django/models.py" timestamp="1537412659731">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="109" />
+      </file>
+      <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="45" />
+        <mark key="." line="62" column="45" />
+        <mark key="^" line="62" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/i18n/direct_downloader.py" timestamp="1537415486792">
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="62" />
+      </file>
+      <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="52" />
+      </file>
+      <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/__init__.py" timestamp="1537415838784" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest/version.py" timestamp="1537350781192" />
       <file name="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" timestamp="1533820057774">
         <mark key="'" line="30" column="0" />
@@ -54,31 +88,9 @@
         <mark key="." line="43" column="12" />
         <mark key="^" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/abtest_new/abtest_info.py" timestamp="1537351083403">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="47" column="124" />
-        <mark key="]" line="47" column="130" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/counter_service/client.py" timestamp="1537357074180" />
-      <file name="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" timestamp="1537350224074">
-        <mark key="'" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1231287474/ss/abtest/VersionService.py" timestamp="1537350819982" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/django/middleware/auth.py" timestamp="1537413193218" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
-      <file name="$USER_HOME$/repos/lianchi_python/settings.py" timestamp="1537275293634">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="16" />
-      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/django_alarm_handler.py" timestamp="1537351597910" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.hpp" timestamp="1537354465359" />
-      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533819397110">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="16" column="24" />
-      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" timestamp="1537412014189">
         <mark key="'" line="9" column="67" />
       </file>
@@ -96,6 +108,10 @@
         <mark key="." line="86" column="28" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/dingtalk/__init__.py" timestamp="1537412099719" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/performant.py" timestamp="1537415860103">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="62" />
+      </file>
       <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" timestamp="1537354160304">
         <mark key="'" line="142" column="4" />
@@ -103,13 +119,6 @@
         <mark key="]" line="12" column="23" />
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/cluster/canopy.py" timestamp="1537356676195">
-        <mark key="[" line="57" column="44" />
-        <mark key="]" line="57" column="52" />
-      </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
-        <mark key="'" line="75" column="11" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_detector.py" timestamp="1537355808764" />
     </filemarks>
@@ -193,8 +202,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS90aG9hcy9kamFuZ28tc2VwYXJhdGVkdmFsdWVzZmllbGQvbWFzdGVyL3NlcGFyYXRlZHZhbHVlc2ZpZWxkL21vZGVscy5weQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW5vdGlmeQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIHR5cGUoWEFfKSBpcyBub3QgbGlzdDoKICAgICAgICBYQV8gPSBbWEFfLCBdCg==</text>
