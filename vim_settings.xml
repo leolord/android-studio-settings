@@ -108,12 +108,12 @@
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/__init__.py" timestamp="1537415838784" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/blog/manage.py" timestamp="1538013949507" />
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538047415027">
-        <mark key="'" line="6" column="1" />
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="54" />
-        <mark key="." line="8" column="54" />
-        <mark key="^" line="8" column="54" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538048611066">
+        <mark key="'" line="8" column="54" />
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest/version.py" timestamp="1537350781192" />
       <file name="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" timestamp="1533820057774">
@@ -262,19 +262,20 @@
       <jump line="93" column="58" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="77" column="11" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="5" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="8" column="54" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>comments</text>
+        <text>rxx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnL2Jsb2cvPGludDogaWQ+L2NvbW1lbnRzJywgdmlld3MuY29tbWVudHMsIG5hbWU9J2Jsb2dfY29tbWVudHMnKQo=</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnL3JzcycsIHZpZXdzLnNuaXBwZXRzLCBuYW1lPSdzbmlwcGV0cycpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgcGF0aCgnL2NvLzxpbnQ6IGlkPicsIHZpZXdzLnNuaXBwZXRzLCBuYW1lPSdzbmlwcGV0cycpCg==</text>
