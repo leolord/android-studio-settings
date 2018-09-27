@@ -4,6 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest_new/version.py" timestamp="1537350863054" />
+      <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523960726391">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/repos/adweb/run/uwsgi_ad_web_run/run" timestamp="1537344517456">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="25" />
@@ -41,6 +48,26 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533819397110">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/settings.py" timestamp="1538019665178">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="^" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/urls.py" timestamp="1538019525419">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/blog/blog/models.py" timestamp="1538015691319">
         <mark key="'" line="60" column="27" />
         <mark key="[" line="87" column="0" />
@@ -61,28 +88,81 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="109" />
       </file>
+      <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="45" />
+        <mark key="." line="62" column="45" />
+        <mark key="^" line="62" column="45" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/i18n/direct_downloader.py" timestamp="1537415486792">
         <mark key="[" line="54" column="11" />
         <mark key="]" line="54" column="62" />
       </file>
+      <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="52" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/__init__.py" timestamp="1537415838784" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/blog/manage.py" timestamp="1538013949507" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538020083538">
+        <mark key="'" line="6" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest/version.py" timestamp="1537350781192" />
+      <file name="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" timestamp="1533820057774">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/django/middleware/auth.py" timestamp="1537413193218" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/django_alarm_handler.py" timestamp="1537351597910" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" timestamp="1538020172668">
+        <mark key="'" line="81" column="36" />
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="38" />
+        <mark key="^" line="81" column="21" />
+        <mark key="." line="81" column="38" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" timestamp="1537412014189">
         <mark key="'" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.i" timestamp="1537354421777" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/django/util.py" timestamp="1537412272347" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/__init__.py" timestamp="1537351482129" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/apps.py" timestamp="1538019599682">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
+        <mark key="'" line="82" column="21" />
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="28" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="86" column="28" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/dingtalk/__init__.py" timestamp="1537412099719" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/performant.py" timestamp="1537415860103">
         <mark key="[" line="0" column="55" />
         <mark key="]" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
+      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" timestamp="1537354160304">
+        <mark key="'" line="142" column="4" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="43" />
+        <mark key="." line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_detector.py" timestamp="1537355808764" />
     </filemarks>
     <jumps>
@@ -165,46 +245,51 @@
       <jump line="18" column="43" filename="$USER_HOME$/work/test/LeoPyBlog/blog/blog/models.py" />
       <jump line="7" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/blog/blog/models.py" />
       <jump line="53" column="27" filename="$USER_HOME$/work/test/LeoPyBlog/blog/blog/models.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/urls.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/urls.py" />
+      <jump line="73" column="11" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="6" column="1" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" />
+      <jump line="81" column="36" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>SoftDeletionManager</text>
+        <text>'desc'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vd19hZGQ9VHJ1ZSkgICMg5Yib5bu65pe26Ze0CiAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3c9VHJ1ZSkgICMg5pu05paw5pe26Ze0Cg==</text>
+      <register name="0" type="4">
+        <text>BlogConfig</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICB0ZXh0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2KSAgIyDmoIfnrb7nmoRUYWcKICAgIGNyZWF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vd19hZGQ9VHJ1ZSkgICMg5Yib5bu65pe26Ze0CiAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3c9VHJ1ZSkgICMg5pu05paw5pe26Ze0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbXQgZGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kZWxzLlEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vdz1UcnVlKSAgIyDmm7TmlrDml7bpl7QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGAK</text>
+        <text encoding="base64">Y2xhc3MgQmxvZ1RhZyhtb2RlbHMuTW9kZWwpOgogICAgYmxvZyA9IG1vZGVscy5Gb3JlaWduT2JqZWN0KEJsb2csIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkKICAgIHRhZyA9IG1vZGVscy5Gb3JlaWduT2JqZWN0KFRhZywgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFKSAgIyBUT0RPOumcgOimgee0ouW8lQogICAgY3JlYXRlZF9hdCA9IG1vZGVscy5EYXRlVGltZUZpZWxkKGF1dG9fbm93X2FkZD1UcnVlKSAgIyDliJvlu7rml7bpl7QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIi5LiA56+H5pel5b+XIiIiIiIiCg==</text>
+        <text encoding="base64">ZnJvbSBsZW9fc2l0ZSBpbXBvcnQgIGJsb2cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxlb19zaXRlLmJsb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
