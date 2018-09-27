@@ -164,6 +164,12 @@
         <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_detector.py" timestamp="1537355808764" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/admin.py" timestamp="1538022378732">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
@@ -250,34 +256,37 @@
       <jump line="73" column="11" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="6" column="1" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" />
       <jump line="81" column="36" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="1" column="48" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>Collection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vd19hZGQ9VHJ1ZSkgICMg5Yib5bu65pe26Ze0CiAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3c9VHJ1ZSkgICMg5pu05paw5pe26Ze0Cg==</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihDb2xsZWN0aW9uKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>;
+;
+;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICB0ZXh0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2KSAgIyDmoIfnrb7nmoRUYWcKICAgIGNyZWF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vd19hZGQ9VHJ1ZSkgICMg5Yib5bu65pe26Ze0CiAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3c9VHJ1ZSkgICMg5pu05paw5pe26Ze0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGFnKG1vZGVscy5Nb2RlbCk6CiAgICB0ZXh0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2KSAgIyDmoIfnrb7nmoRUYWcKICAgIGNyZWF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vd19hZGQ9VHJ1ZSkgICMg5Yib5bu65pe26Ze0CiAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3c9VHJ1ZSkgICMg5pu05paw5pe26Ze0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -286,10 +295,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vdz1UcnVlKSAgIyDmm7TmlrDml7bpl7QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZ1RhZyhtb2RlbHMuTW9kZWwpOgogICAgYmxvZyA9IG1vZGVscy5Gb3JlaWduT2JqZWN0KEJsb2csIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkKICAgIHRhZyA9IG1vZGVscy5Gb3JlaWduT2JqZWN0KFRhZywgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFKSAgIyBUT0RPOumcgOimgee0ouW8lQogICAgY3JlYXRlZF9hdCA9IG1vZGVscy5EYXRlVGltZUZpZWxkKGF1dG9fbm93X2FkZD1UcnVlKSAgIyDliJvlu7rml7bpl7QK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vdz1UcnVlKSAgIyDmm7TmlrDml7bpl7QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -333,6 +342,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
