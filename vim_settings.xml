@@ -136,11 +136,12 @@
       <file name="$USER_HOME$/repos/pyutil/pyutil/django/middleware/auth.py" timestamp="1537413193218" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/django_alarm_handler.py" timestamp="1537351597910" />
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" timestamp="1538100713483">
-        <mark key="'" line="2" column="32" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" timestamp="1538125978205">
+        <mark key="'" line="95" column="26" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="98" column="27" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.i" timestamp="1537354421777" />
       <file name="$USER_HOME$/repos/lianchi_python/settings_local.py" timestamp="1537179232637">
@@ -273,62 +274,68 @@
       <jump line="1" column="48" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/admin.py" />
       <jump line="91" column="45" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="3" column="42" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
-      <jump line="93" column="58" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="77" column="11" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="5" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="8" column="54" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" />
       <jump line="50" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="4" column="32" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="84" column="24" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="90" column="8" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="98" column="22" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="97" column="26" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0c1w+</text>
+        <text encoding="base64">XDxmaW5hbGx5X3RhZ19saXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>__pycache__</text>
+        <text encoding="base64">ZXhpc3RfdGFnX3RleHRfbGlzdAogICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVvX3NpdGUvYmxvZy9taWdyYXRpb25zLzAwMDFfaW5pdGlhbC5weQpsZW9fc2l0ZS9ibG9nL21pZ3JhdGlvbnMvX19pbml0X18ucHkK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5X3RhZ19saXN0ID0gW10KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhZ3Muc2V0KGZpbmFsbHlfdGFnX2xpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGxpc3QoY2xzKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseV90YWdfbGlzdCA9IGV4aXN0X3RhZ190ZXh0X2xpc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUYWcub2JqZWN0cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxzKClbJ2ZpbmFsbHlfdGFnX2xpc3QnXSA9IGV4aXN0X3RhZ190ZXh0X2xpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMub2JqZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxzKClbZmluYWxseV90YWdfbGlzdCA9IGV4aXN0X3RhZ190ZXh0X2xpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9ubG9jYWwgZmluYWxseV90YWdfbGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9ubG9jYWwgZmluYWxseV90YWdfbGlzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZXpvbmUsIHRpbWUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseV90YWdfbGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0c1w+</last-search>
+      <last-search encoding="base64">XDxmaW5hbGx5X3RhZ19saXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0c1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxmaW5hbGx5X3RhZ19saXN0XD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -338,6 +345,7 @@
         <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfcG9ydF92Mlw+</entry>
         <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0c1w+</entry>
+        <entry encoding="base64">XDxmaW5hbGx5X3RhZ19saXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
@@ -365,6 +373,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
