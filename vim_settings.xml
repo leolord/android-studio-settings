@@ -107,7 +107,17 @@
         <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/__init__.py" timestamp="1537415838784" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/runtime/lib/python3.7/site-packages/django/db/models/base.py" timestamp="1538100503739">
+        <mark key="[" line="870" column="19" />
+        <mark key="]" line="870" column="50" />
+      </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/blog/manage.py" timestamp="1538013949507" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/views/homepage.py" timestamp="1538100266332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538048611066">
         <mark key="'" line="8" column="54" />
         <mark key="[" line="15" column="41" />
@@ -126,17 +136,19 @@
       <file name="$USER_HOME$/repos/pyutil/pyutil/django/middleware/auth.py" timestamp="1537413193218" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/django_alarm_handler.py" timestamp="1537351597910" />
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" timestamp="1538053274533">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="59" column="41" />
-        <mark key="]" line="59" column="53" />
-        <mark key="^" line="59" column="53" />
-        <mark key="." line="59" column="53" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" timestamp="1537412014189">
-        <mark key="'" line="9" column="67" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" timestamp="1538100713483">
+        <mark key="'" line="2" column="32" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.i" timestamp="1537354421777" />
+      <file name="$USER_HOME$/repos/lianchi_python/settings_local.py" timestamp="1537179232637">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/django/util.py" timestamp="1537412272347" />
       <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/__init__.py" timestamp="1537351482129" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/apps.py" timestamp="1538019599682">
@@ -156,6 +168,12 @@
         <mark key="]" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/.gitignore" timestamp="1538101508240">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" timestamp="1537354160304">
         <mark key="'" line="142" column="4" />
         <mark key="[" line="12" column="23" />
@@ -164,12 +182,8 @@
         <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_detector.py" timestamp="1537355808764" />
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/admin.py" timestamp="1538022378732">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-      </file>
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/migrations/0001_initial.py" timestamp="1538101182802" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/admin.py" timestamp="1538100919718" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
@@ -263,48 +277,48 @@
       <jump line="77" column="11" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="5" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="8" column="54" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="4" column="32" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>rxx</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnL3JzcycsIHZpZXdzLnNuaXBwZXRzLCBuYW1lPSdzbmlwcGV0cycpCg==</text>
+      <register name="0" type="4">
+        <text>__pycache__</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnL2NvLzxpbnQ6IGlkPicsIHZpZXdzLnNuaXBwZXRzLCBuYW1lPSdzbmlwcGV0cycpCg==</text>
+        <text encoding="base64">bGVvX3NpdGUvYmxvZy9taWdyYXRpb25zLzAwMDFfaW5pdGlhbC5weQpsZW9fc2l0ZS9ibG9nL21pZ3JhdGlvbnMvX19pbml0X18ucHkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGxpc3QoY2xzKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkxPR19TVEFUVVNfRFJBRlQgPSAwCkJMT0dfU1RBVFVTX1BVQkxJU0hFRCA9IDEKQkxPR19TVEFUVVNfREVMRVRFRCA9IDIK</text>
+        <text encoding="base64">ICAgICAgICBUYWcub2JqZWN0cy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQ29tbWVudChtb2RlbHMuTW9kZWxzKToKICAgICIiIuivhOiuuiIiIgogICAgY29udGVudCA9IG1vZGVscy5UZXh0RmllbGQobWF4X2xlbmd0aD0yNTYpCiAgICBibG9nID0gbW9kZWxzLkZvcmVpZ25PYmplY3QoQmxvZykK</text>
+        <text encoding="base64">ICAgICAgICBjbHMub2JqZQo=</text>
       </register>
-      <register name="6" type="8">
-        <text>;
-;
-;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxpc3QoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnRleHQK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZXpvbmUsIHRpbWUKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
