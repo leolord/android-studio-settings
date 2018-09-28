@@ -55,11 +55,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/settings.py" timestamp="1538045268260">
-        <mark key="[" line="110" column="11" />
-        <mark key="]" line="110" column="15" />
-        <mark key="^" line="110" column="15" />
-        <mark key="." line="110" column="15" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/settings.py" timestamp="1538137598936">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="24" />
+        <mark key="^" line="116" column="5" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/urls.py" timestamp="1538019525419">
         <mark key="'" line="15" column="0" />
@@ -118,12 +119,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538128362933">
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538135427226">
         <mark key="'" line="8" column="54" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="43" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/abtest/version.py" timestamp="1537350781192" />
       <file name="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" timestamp="1533820057774">
@@ -187,8 +188,6 @@
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/admin.py" timestamp="1538100919718" />
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/work/test/flask/app/app.py" />
       <jump line="123" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
       <jump line="99" column="11" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
       <jump line="5" column="5" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
@@ -286,46 +285,49 @@
       <jump line="98" column="22" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="94" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
       <jump line="97" column="26" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/models.py" />
+      <jump line="32" column="25" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/settings.py" />
+      <jump line="24" column="11" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/settings.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/leo_site/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LOGIN_REDIRECT_URL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5hbGx5X3RhZ19saXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYWJzb2x1dGVfdXJsKHNlbGYpOgogICAgICAgIHJldHVybiAiL2Jsb2cvJWkiICUgc2VsZi5pZAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">TE9HSU5fUkVESVJFQ1RfVVJMIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9HSU5fUkVESVJFQ1RfVVJMID0gJy8nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TE9HSU5fVVJMICA9ICcvYmFja19ob2xlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ29tbWVudChtb2RlbHMuTW9kZWwpOgogICAgIiIi6K+E6K66IiIiCiAgICBjb250ZW50ID0gbW9kZWxzLlRleHRGaWVsZChtYXhfbGVuZ3RoPTI1NikKICAgIHVzZXIgPSBtb2RlbHMuRm9yZWlnbktleShVc2VyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCiAgICBibG9nID0gbW9kZWxzLkZvcmVpZ25LZXkoQmxvZywgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcGF0aCgnL2F0b20nLCB2aWV3cy5zbmlwcGV0cywgbmFtZT0nYXRvbScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYWJzb2x1dGVfdXJsCg==</text>
+        <text encoding="base64">Y2xhc3MgQ29tbWVudChtb2RlbHMuTW9kZWwpOgogICAgIiIi6K+E6K66IiIiCiAgICBjb250ZW50ID0gbW9kZWxzLlRleHRGaWVsZChtYXhfbGVuZ3RoPTI1NikKICAgIHVzZXIgPSBtb2RlbHMuRm9yZWlnbktleShVc2VyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCiAgICBibG9nID0gbW9kZWxzLkZvcmVpZ25LZXkoQmxvZywgb25fZGVsZXRlPW1vZGVscy5DQVNDQURFKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5X3RhZ19saXN0ID0gW10KCg==</text>
+        <text encoding="base64">ICAgICMgcGF0aCgnL2F0b20nLCB2aWV3cy5zbmlwcGV0cywgbmFtZT0nYXRvbScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhZ3Muc2V0KGZpbmFsbHlfdGFnX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseV90YWdfbGlzdCA9IGV4aXN0X3RhZ190ZXh0X2xpc3QK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfYWJzb2x1dGVfdXJsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -350,6 +352,7 @@
       <history-cmd>
         <entry>=</entry>
         <entry>qa</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
