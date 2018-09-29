@@ -170,11 +170,11 @@
         <mark key="]" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
-      <file name="$USER_HOME$/work/test/LeoPyBlog/.gitignore" timestamp="1538101508240">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/.gitignore" timestamp="1538185735816">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" timestamp="1537354160304">
         <mark key="'" line="142" column="4" />
