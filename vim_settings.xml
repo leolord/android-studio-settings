@@ -143,6 +143,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538206387230">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538205028897">
         <mark key="'" line="6" column="41" />
         <mark key="[" line="15" column="30" />
@@ -239,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
       <jump line="122" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
       <jump line="85" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
       <jump line="334" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
@@ -339,13 +345,14 @@
       <jump line="24" column="35" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/views/blog.py" />
       <jump line="12" column="24" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/views/blog.py" />
       <jump line="6" column="41" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlk</text>
+        <text>import</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
