@@ -11,6 +11,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/work/test/LeoPyBlog/runtime/lib/python3.7/site-packages/django/forms/fields.py" timestamp="1538210626384">
+        <mark key="[" line="948" column="6" />
+        <mark key="]" line="948" column="20" />
+      </file>
       <file name="$USER_HOME$/repos/adweb/run/uwsgi_ad_web_run/run" timestamp="1537344517456">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="25" />
@@ -144,11 +148,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538209736245">
-        <mark key="'" line="39" column="25" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538210776585">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/urls.py" timestamp="1538205028897">
         <mark key="'" line="6" column="41" />
@@ -246,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="7" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
       <jump line="72" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
       <jump line="41" column="28" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
       <jump line="78" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
@@ -346,46 +350,47 @@
       <jump line="15" column="14" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
       <jump line="23" column="8" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
       <jump line="39" column="25" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>MultiValueField</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">a2V5d29yZHMg</text>
+        <text>MultiValueField</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnMK</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSBmb3Jtcy5Nb2RlbE11bHRpcGxlQ2hvaWNlRmllbGQocXVlcnlzZXQ9VGFnLm9iamVjdHMuYWxsKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUHVibGlzaEZvcm0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1OHJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2FidmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMgaW1wb3J0IEZvcm0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBtb2RlbD1CbG9nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMgaW1wb3J0IEZvcm0KZnJvbSAubW9kZWxzIGltcG9ydCBCbG9nCgpjbGFzcyBCbG9nRm9ybShGb3JtKToKICAgIHRpdGxlID0gRm9ybS4K</text>
+        <text encoding="base64">Y2xhc3MgUHVibGlzaEZvcm0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
