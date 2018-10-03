@@ -28,7 +28,9 @@
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
         <mark key="'" line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" timestamp="1526631621066" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
+        <mark key="'" line="41" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
@@ -47,6 +49,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="67" column="20" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
