@@ -3,74 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/abtest_new/version.py" timestamp="1537350863054" />
+      <file name="/start_script.py" timestamp="1523956629432">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" timestamp="1526630844242">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="30" />
+      </file>
       <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523960726391">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/repos/adweb/run/uwsgi_ad_web_run/run" timestamp="1537344517456">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/repos/adweb/conf/deploy.conf" timestamp="1537349859216" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_classifier.py" timestamp="1537355796376" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/cache/base.py" timestamp="1537356254494" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/bdmonitor/bdmonitor.py" timestamp="1537355885954">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="38" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/shortcuts/__init__.py" timestamp="1537238357647" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/counter_service/client.py" timestamp="1537357074180" />
-      <file name="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" timestamp="1537350224074">
-        <mark key="'" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1231287474/ss/abtest/VersionService.py" timestamp="1537350819982" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/hiveserver2_v2/__init__.py" timestamp="1537415314662" />
-      <file name="$USER_HOME$/repos/lianchi_python/settings.py" timestamp="1537275293634">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="16" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.hpp" timestamp="1537354465359" />
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_install_stat.py" timestamp="1526975598853">
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="53" column="57" />
-      </file>
-      <file name="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" timestamp="1533819397110">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="16" column="24" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/cluster/canopy.py" timestamp="1537356676195">
-        <mark key="[" line="57" column="44" />
-        <mark key="]" line="57" column="52" />
-      </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" timestamp="1526873899373">
-        <mark key="'" line="75" column="11" />
-      </file>
-      <file name="$USER_HOME$/repos/ss_conf/ss/db_paydb.conf" timestamp="1537349962941">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="54" />
-      </file>
-      <file name="$USER_HOME$/repos/adweb/common/thrift.py" timestamp="1537350544325" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/django/models.py" timestamp="1537412659731">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="109" />
-      </file>
-      <file name="$USER_HOME$/work/data-playground/src/inverted_sequence.py" timestamp="1533880013073">
-        <mark key="'" line="51" column="32" />
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="45" />
-        <mark key="." line="62" column="45" />
-        <mark key="^" line="62" column="45" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/i18n/direct_downloader.py" timestamp="1537415486792">
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="62" />
       </file>
       <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
         <mark key="'" line="8" column="0" />
@@ -79,48 +25,20 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/__init__.py" timestamp="1537415838784" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/abtest/version.py" timestamp="1537350781192" />
-      <file name="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" timestamp="1533820057774">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="43" column="10" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="43" column="12" />
-        <mark key="^" line="43" column="12" />
+      <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
+        <mark key="'" line="426" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/django/middleware/auth.py" timestamp="1537413193218" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/city/genCityCode.py" timestamp="1537356359545" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/django_alarm_handler.py" timestamp="1537351597910" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" timestamp="1537412014189">
-        <mark key="'" line="9" column="67" />
+      <file name="$USER_HOME$/work/django/django/dispatch/dispatcher.py" timestamp="1539050983264" />
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
+        <mark key="'" line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance.i" timestamp="1537354421777" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/django/util.py" timestamp="1537412272347" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/alarm/__init__.py" timestamp="1537351482129" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance_a.py" timestamp="1537354381061">
-        <mark key="'" line="22" column="11" />
+      <file name="$USER_HOME$/work/django/django/db/backends/mysql/introspection.py" timestamp="1539001347846" />
+      <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
+        <mark key="'" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" timestamp="1526875198415">
-        <mark key="'" line="82" column="21" />
-        <mark key="[" line="86" column="27" />
-        <mark key="]" line="86" column="28" />
-        <mark key="^" line="86" column="28" />
-        <mark key="." line="86" column="28" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/dingtalk/__init__.py" timestamp="1537412099719" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/inotify/performant.py" timestamp="1537415860103">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="62" />
-      </file>
-      <file name="$USER_HOME$/repos/adweb/bootstrap.py" timestamp="1537344778717" />
-      <file name="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" timestamp="1537354160304">
-        <mark key="'" line="142" column="4" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="43" />
-        <mark key="." line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/pyutil/pyutil/article/article_ad_detector.py" timestamp="1537355808764" />
+      <file name="$USER_HOME$/work/django/django/db/models/signals.py" timestamp="1539001627535" />
+      <file name="$USER_HOME$/work/django/django/db/__init__.py" timestamp="1539000159430" />
+      <file name="$USER_HOME$/work/django/django/db/utils.py" timestamp="1539000088480" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
@@ -131,130 +49,67 @@
       <jump line="120" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
       <jump line="57" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
       <jump line="79" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="28" column="30" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
+      <jump line="100" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
       <jump line="24" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="16" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="44" column="16" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="18" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="67" column="20" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="11" column="44" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="117" column="13" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="331" column="13" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="332" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="122" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="334" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="99" column="13" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="160" column="5" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_login_stat.py" />
-      <jump line="16" column="48" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="8" column="29" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="140" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" />
-      <jump line="106" column="7" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="72" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="41" column="28" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="82" column="21" filename="$USER_HOME$/repos/ad_dataflow/game_stat/game_stat.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="26" column="4" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="28" column="17" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="39" column="8" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="100" column="24" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="75" column="11" filename="$USER_HOME$/repos/ad_dataflow/game_stat/global_functions.py" />
-      <jump line="73" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/joint/game_coop_sdk_stat.py" />
-      <jump line="24" column="41" filename="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" />
-      <jump line="18" column="18" filename="$USER_HOME$/work/test/data-playground/src/simple_latest_squares.py" />
-      <jump line="19" column="48" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/work/test/data-playground/src/inverted_sequence.py" />
-      <jump line="55" column="27" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
-      <jump line="51" column="32" filename="$USER_HOME$/work/data-playground/src/inverted_sequence.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
-      <jump line="7" column="61" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/repos/lianchi_python/views/login.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="198" column="0" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="6" column="23" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="20" column="0" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="7" column="23" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="23" column="0" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="8" column="23" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="24" column="0" filename="$USER_HOME$/repos/ss_conf/ss/db_ad_data.conf" />
-      <jump line="47" column="124" filename="$USER_HOME$/repos/pyutil/pyutil/abtest_new/abtest_info.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/repos/pyutil/pyutil/abtest_new/abtest_info.py" />
-      <jump line="31" column="31" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" />
-      <jump line="142" column="4" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/wrap.py" />
-      <jump line="22" column="11" filename="$USER_HOME$/repos/pyutil/pyutil/algorithm/distance/distance_a.py" />
-      <jump line="3" column="26" filename="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" />
-      <jump line="9" column="67" filename="$USER_HOME$/repos/pyutil/pyutil/demotion/demotion.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
+      <jump line="426" column="27" filename="$USER_HOME$/work/django/django/forms/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuZ2xvCg==</text>
+      <register name="&quot;" type="4">
+        <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0c1w+</text>
+        <text>, send_from_directory</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW5vdGlmeQo=</text>
+        <text>get_nsq_reader</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIHR5cGUoWEFfKSBpcyBub3QgbGlzdDoKICAgICAgICBYQV8gPSBbWEFfLCBdCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVtcGxhdGUgaW1wb3J0IGxvYWRlciwgQ29udGV4dApmcm9tIGRqYW5nby5odHRwIGltcG9ydCBIdHRwUmVzcG9uc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UobG9hZGVyLmdldF90ZW1wbGF0ZSgibG9naW4uaHRtbCIpLnJlbmRlcihDb250ZXh0KHt9KSkpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvYWRlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">REJTZXNzaW9uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGFycikpOgogICAgICAgICAgICAgICAgYXJyW2ldID0gdG1wQXJyW2ldCg==</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0c1w+</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0c1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxhZF9rZXlcPg==</entry>
-        <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfaG9zdF92Mlw+</entry>
-        <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfcG9ydF92Mlw+</entry>
-        <entry encoding="base64">XDxzc19hZF9kYXRhX3JlYWRfdXNlcl92Mlw+</entry>
-        <entry encoding="base64">XDxkZWZhdWx0c1w+</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>=</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -262,18 +117,6 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
