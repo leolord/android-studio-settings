@@ -11,12 +11,18 @@
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1541756550253">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523960726391">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1541756180063">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
         <mark key="'" line="8" column="0" />
@@ -28,17 +34,19 @@
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
         <mark key="'" line="426" column="27" />
       </file>
-      <file name="$USER_HOME$/work/django/django/dispatch/dispatcher.py" timestamp="1539050983264" />
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
         <mark key="'" line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/work/django/django/db/backends/mysql/introspection.py" timestamp="1539001347846" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/work/django/django/db/models/signals.py" timestamp="1539001627535" />
-      <file name="$USER_HOME$/work/django/django/db/__init__.py" timestamp="1539000159430" />
-      <file name="$USER_HOME$/work/django/django/db/utils.py" timestamp="1539000088480" />
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1541756282461" />
+      <file name="/ad [AD测试库]" timestamp="1541756447275">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1541756493017">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/work/test/flask/app/db.py" />
