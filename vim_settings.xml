@@ -37,10 +37,14 @@
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
         <mark key="'" line="67" column="20" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/device_model.py" timestamp="1541902157141" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1541756282461" />
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1541902345752">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="11" />
+      </file>
       <file name="/ad [AD测试库]" timestamp="1541756447275">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,7 +80,7 @@
         <text>, send_from_directory</text>
       </register>
       <register name="0" type="4">
-        <text>get_nsq_reader</text>
+        <text>webargs</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
