@@ -34,6 +34,10 @@
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
         <mark key="'" line="426" column="27" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/ad.py" timestamp="1542002253222">
+        <mark key="[" line="2566" column="6" />
+        <mark key="]" line="2566" column="17" />
+      </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
         <mark key="'" line="67" column="20" />
       </file>
@@ -41,10 +45,7 @@
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1541907566241">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="11" />
-      </file>
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542001623389" />
       <file name="/ad [AD测试库]" timestamp="1541756447275">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,7 +81,7 @@
         <text>, send_from_directory</text>
       </register>
       <register name="0" type="4">
-        <text>webargs</text>
+        <text>ExternalType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
