@@ -34,9 +34,9 @@
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
         <mark key="'" line="426" column="27" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/ad.py" timestamp="1542002253222">
-        <mark key="[" line="2566" column="6" />
-        <mark key="]" line="2566" column="17" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/ad.py" timestamp="1542112595642">
+        <mark key="[" line="181" column="6" />
+        <mark key="]" line="181" column="19" />
       </file>
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
         <mark key="'" line="67" column="20" />
@@ -81,7 +81,7 @@
         <text>, send_from_directory</text>
       </register>
       <register name="0" type="4">
-        <text>ExternalType</text>
+        <text>OperatorIDType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
@@ -130,6 +130,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
