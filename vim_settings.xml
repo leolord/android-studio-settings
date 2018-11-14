@@ -29,14 +29,15 @@
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/constant.py" timestamp="1542163418664">
-        <mark key="[" line="1017" column="6" />
-        <mark key="]" line="1017" column="14" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/constant.py" timestamp="1542187174994">
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="9" />
+        <mark key="." line="911" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ssad/common/ad_category.json" timestamp="1542163343571" />
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542175046106">
-        <mark key="[" line="426" column="70" />
-        <mark key="]" line="426" column="89" />
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542187288835">
+        <mark key="[" line="436" column="19" />
+        <mark key="]" line="436" column="33" />
       </file>
       <file name="/ad [AD测试库]" timestamp="1541756447275">
         <mark key="[" line="0" column="0" />
@@ -88,34 +89,34 @@
         <text encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>ContentType.external</text>
+        <text encoding="base64">SU9TX09TVklEIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
+        <text encoding="base64">ICAgIEBkZXByZWNhdGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REJTZXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+        <text encoding="base64">REJTZXNzaW9uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
