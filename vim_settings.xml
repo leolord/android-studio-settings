@@ -41,11 +41,23 @@
       <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
         <mark key="'" line="67" column="20" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/data/creative_tag.py" timestamp="1542163541085">
+        <mark key="'" line="50" column="11" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/device_model.py" timestamp="1541902157141" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542001623389" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/constant.py" timestamp="1542163418664">
+        <mark key="[" line="1017" column="6" />
+        <mark key="]" line="1017" column="14" />
+      </file>
+      <file name="$USER_HOME$/repos/ssad/common/ad_category.json" timestamp="1542163343571" />
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542163550244">
+        <mark key="'" line="288" column="27" />
+        <mark key="[" line="273" column="20" />
+        <mark key="]" line="273" column="31" />
+      </file>
       <file name="/ad [AD测试库]" timestamp="1541756447275">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +84,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
       <jump line="41" column="4" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
       <jump line="426" column="27" filename="$USER_HOME$/work/django/django/forms/models.py" />
+      <jump line="278" column="18" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="287" column="19" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="50" column="11" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/data/creative_tag.py" />
+      <jump line="288" column="27" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -81,7 +97,7 @@
         <text>, send_from_directory</text>
       </register>
       <register name="0" type="4">
-        <text>OperatorIDType</text>
+        <text>StockType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
@@ -136,6 +152,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
