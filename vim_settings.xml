@@ -6,11 +6,6 @@
       <file name="/start_script.py" timestamp="1523956629432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" timestamp="1526630844242">
-        <mark key="'" line="100" column="12" />
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1541756550253">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,12 +34,9 @@
         <mark key="]" line="1017" column="14" />
       </file>
       <file name="$USER_HOME$/repos/ssad/common/ad_category.json" timestamp="1542163343571" />
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542167028844">
-        <mark key="'" line="2060" column="25" />
-        <mark key="[" line="406" column="11" />
-        <mark key="]" line="406" column="12" />
-        <mark key="^" line="406" column="12" />
-        <mark key="." line="406" column="12" />
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542175046106">
+        <mark key="[" line="426" column="70" />
+        <mark key="]" line="426" column="89" />
       </file>
       <file name="/ad [AD测试库]" timestamp="1541756447275">
         <mark key="[" line="0" column="0" />
@@ -96,7 +88,7 @@
         <text encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>StockType</text>
+        <text>ContentType.external</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
