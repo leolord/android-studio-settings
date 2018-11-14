@@ -14,22 +14,8 @@
       <file name="/Dummy.txt" timestamp="1541756550253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/test/flask/app/db.py" timestamp="1523960726391">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="9" />
-      </file>
       <file name="/Python Console" timestamp="1541756180063">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/test/flask/app/app.py" timestamp="1524035755625">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
         <mark key="'" line="426" column="27" />
@@ -53,13 +39,18 @@
         <mark key="]" line="1017" column="14" />
       </file>
       <file name="$USER_HOME$/repos/ssad/common/ad_category.json" timestamp="1542163343571" />
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542163550244">
-        <mark key="'" line="288" column="27" />
-        <mark key="[" line="273" column="20" />
-        <mark key="]" line="273" column="31" />
+      <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542167028844">
+        <mark key="'" line="2060" column="25" />
+        <mark key="[" line="406" column="11" />
+        <mark key="]" line="406" column="12" />
+        <mark key="^" line="406" column="12" />
+        <mark key="." line="406" column="12" />
       </file>
       <file name="/ad [AD测试库]" timestamp="1541756447275">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/djangosite/auth/util.py" timestamp="1542165147955">
+        <mark key="'" line="632" column="29" />
       </file>
       <file name="/dummy.sql" timestamp="1541756493017">
         <mark key="[" line="0" column="0" />
@@ -88,13 +79,21 @@
       <jump line="287" column="19" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
       <jump line="50" column="11" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/data/creative_tag.py" />
       <jump line="288" column="27" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="404" column="1" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="95" column="39" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="632" column="29" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/djangosite/auth/util.py" />
+      <jump line="2065" column="16" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="2060" column="25" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>, send_from_directory</text>
+        <text encoding="base64">eGkgbHEg</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</text>
       </register>
       <register name="0" type="4">
         <text>StockType</text>
@@ -131,11 +130,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>=</entry>
@@ -155,6 +159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
