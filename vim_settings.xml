@@ -15,11 +15,12 @@
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
         <mark key="'" line="426" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542350392903">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="64" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="32" />
+      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542355277625">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/ad.py" timestamp="1542112595642">
         <mark key="[" line="181" column="6" />
@@ -94,65 +95,82 @@
       <jump line="2065" column="16" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
       <jump line="2060" column="25" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
       <jump line="36" column="3" filename="$USER_HOME$/repos/dawn/urls.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="22" column="25" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="69" column="25" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="3" column="66" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="70" column="51" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="60" column="22" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="61" column="16" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="62" column="13" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>dawn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</text>
+        <text>'</text>
       </register>
       <register name="0" type="4">
-        <text>, default=datetime.datetime.now</text>
+        <text encoding="base64">cHJvZHVjdF9rZXkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RfaWQgPSBDb2x1bW4oSW50ZWdlciwgZGVmYXVsdD0wLCBkb2M9IuS6p+WTgee6v0lEIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXduLgo=</text>
+        <text encoding="base64">ICAgIHZlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXduLmFwaSBpbXBvcnQgYXV0aCwgcHJvZHVjdCwgdGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgIHJldmVyc2VkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXduLnZpZXdzIGltcG9ydCB2aWV3cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBkZXByZWNhdGVkCg==</text>
+        <text encoding="base64">ZnJvbSBkYXduLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
+        <text encoding="base64">ZnJvbSBkYXduLmFwaSBpbXBvcnQgYXV0aCwgcHJvZHVjdCwgdGVtcGxhdGUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBkYXduLnZpZXdzIGltcG9ydCB2aWV3cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</last-pattern>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>=</entry>
+        <entry>%s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
