@@ -6,18 +6,31 @@
       <file name="/start_script.py" timestamp="1523956629432">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1541756550253">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1541756180063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542349904691">
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
+        <mark key="'" line="426" column="27" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542350392903">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/ad.py" timestamp="1542112595642">
+        <mark key="[" line="181" column="6" />
+        <mark key="]" line="181" column="19" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/data/creative_tag.py" timestamp="1542163541085">
         <mark key="'" line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/device_model.py" timestamp="1541902157141" />
+      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
+        <mark key="'" line="67" column="20" />
+      </file>
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
@@ -26,37 +39,17 @@
         <mark key="]" line="477" column="9" />
         <mark key="." line="911" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-456780012/ss_data/util/object_dal.py" timestamp="1542348622606" />
-      <file name="$USER_HOME$/repos/ssad/common/ad_category.json" timestamp="1542163343571" />
-      <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542348768334">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-      </file>
-      <file name="/dummy.sql" timestamp="1541756493017">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541756550253">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/dal/product_dal.py" timestamp="1542348838859" />
-      <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
-        <mark key="'" line="426" column="27" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/ssad/common/ad.py" timestamp="1542112595642">
-        <mark key="[" line="181" column="6" />
-        <mark key="]" line="181" column="19" />
-      </file>
-      <file name="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" timestamp="1526631130126">
-        <mark key="'" line="67" column="20" />
-      </file>
-      <file name="$USER_HOME$/repos/adweb/djangosite/ad/dals/ad.py" timestamp="1542248591583" />
       <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542349679019">
         <mark key="'" line="36" column="3" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542348768334">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542187912107">
         <mark key="[" line="436" column="19" />
@@ -67,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/djangosite/auth/util.py" timestamp="1542165147955">
         <mark key="'" line="632" column="29" />
+      </file>
+      <file name="/dummy.sql" timestamp="1541756493017">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -110,7 +106,7 @@
         <text encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SU9TX09TVklEIA==</text>
+        <text>, default=datetime.datetime.now</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
