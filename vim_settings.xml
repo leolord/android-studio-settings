@@ -9,6 +9,11 @@
       <file name="/Python Console" timestamp="1541756180063">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542349904691">
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/data/creative_tag.py" timestamp="1542163541085">
         <mark key="'" line="50" column="11" />
       </file>
@@ -21,14 +26,21 @@
         <mark key="]" line="477" column="9" />
         <mark key="." line="911" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-456780012/ss_data/util/object_dal.py" timestamp="1542250619144" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-456780012/ss_data/util/object_dal.py" timestamp="1542348622606" />
       <file name="$USER_HOME$/repos/ssad/common/ad_category.json" timestamp="1542163343571" />
+      <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542348768334">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+      </file>
       <file name="/dummy.sql" timestamp="1541756493017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541756550253">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/dawn/dal/product_dal.py" timestamp="1542348838859" />
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
         <mark key="'" line="426" column="27" />
       </file>
@@ -40,6 +52,12 @@
         <mark key="'" line="67" column="20" />
       </file>
       <file name="$USER_HOME$/repos/adweb/djangosite/ad/dals/ad.py" timestamp="1542248591583" />
+      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542349679019">
+        <mark key="'" line="36" column="3" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542187912107">
         <mark key="[" line="436" column="19" />
         <mark key="]" line="436" column="33" />
@@ -79,13 +97,14 @@
       <jump line="632" column="29" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/djangosite/auth/util.py" />
       <jump line="2065" column="16" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
       <jump line="2060" column="25" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
+      <jump line="36" column="3" filename="$USER_HOME$/repos/dawn/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eGkgbHEg</text>
+        <text>dawn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJtaXNzaW9uc19yZXF1aXJlZFw+</text>
@@ -94,31 +113,31 @@
         <text encoding="base64">SU9TX09TVklEIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBkZXByZWNhdGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
+        <text encoding="base64">ZnJvbSBkYXduLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXduLmFwaSBpbXBvcnQgYXV0aCwgcHJvZHVjdCwgdGVtcGxhdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGluZGV4KCk6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkYXduLnZpZXdzIGltcG9ydCB2aWV3cwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBkZXByZWNhdGVkCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuYXJncy5nZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REJTZXNzaW9uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlMzovL3Jvb3Q6cGFzc3dvcmRAJykK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -157,6 +176,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
