@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1523956629432">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542360550258" />
+      <file name="$USER_HOME$/repos/dawn/common/auth.py" timestamp="1542360625621">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1541756180063">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/common/auth.py" timestamp="1542359687314" />
       <file name="$USER_HOME$/repos/dawn/views/views.py" timestamp="1542359617320" />
       <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542359600525">
         <mark key="'" line="68" column="12" />
@@ -20,12 +20,14 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/data/creative_tag.py" timestamp="1542163541085">
         <mark key="'" line="50" column="11" />
       </file>
+      <file name="$USER_HOME$/repos/dawn/settings.py" timestamp="1542360456988" />
       <file name="$USER_HOME$/repos/dawn/api/auth.py" timestamp="1542359712160">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/repos/dawn/model/session.py" timestamp="1542360172911" />
       <file name="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" timestamp="1538551234897">
         <mark key="'" line="41" column="4" />
       </file>
@@ -34,7 +36,7 @@
         <mark key="]" line="477" column="9" />
         <mark key="." line="911" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/constant.py" timestamp="1542359834010">
+      <file name="$USER_HOME$/repos/dawn/common/constant.py" timestamp="1542359951074">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="21" />
@@ -45,12 +47,6 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
-      </file>
-      <file name="/dummy.sql" timestamp="1541756493017">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541756550253">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/decorator.py" timestamp="1542359679718" />
       <file name="$USER_HOME$/work/django/django/forms/models.py" timestamp="1538788150924">
@@ -73,9 +69,6 @@
       <file name="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" timestamp="1542187912107">
         <mark key="[" line="436" column="19" />
         <mark key="]" line="436" column="33" />
-      </file>
-      <file name="/ad [AD测试库]" timestamp="1541756447275">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/djangosite/auth/util.py" timestamp="1542165147955">
         <mark key="'" line="632" column="29" />
@@ -130,13 +123,13 @@
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlID0gQ29sdW1uKE1FRElVTVRFWFQsIGRvYz0i5qih5p2/55qESlNPTiIpCiAgICBkYXRhID0gQ29sdW1uKE1FRElVTVRFWFQsIGRvYz0i6aKE55WZ5a2X5q6177yM5rKh55SoIikK</text>
+        <text encoding="base64">ICAgIGVtcGxveWVlX2lkID0gcmVxdWVzdC5zZXNzaW9uLmdldChjb25zdGFudC5FTVBMT1lFRV9JRCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByb2R1Y2RfY29uZl92ZXJzaW9uID0gQ29sdW1uKFN0cmluZyg2NCksIGRvYz0icHJvZHVjdOeahOeJiOacrOWPtyIpCg==</text>
