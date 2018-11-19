@@ -113,12 +113,12 @@
         <mark key="^" line="43" column="69" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542627415288">
-        <mark key="'" line="167" column="16" />
-        <mark key="[" line="163" column="11" />
-        <mark key="]" line="163" column="12" />
-        <mark key="." line="163" column="12" />
-        <mark key="^" line="163" column="12" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542629532525">
+        <mark key="'" line="175" column="31" />
+        <mark key="[" line="183" column="21" />
+        <mark key="]" line="183" column="21" />
+        <mark key="^" line="183" column="21" />
+        <mark key="." line="183" column="21" />
       </file>
       <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542614312741">
         <mark key="'" line="34" column="3" />
@@ -212,16 +212,23 @@
       <jump line="41" column="62" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
       <jump line="22" column="9" filename="$USER_HOME$/repos/dawn/common/decorator.py" />
       <jump line="122" column="22" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="163" column="16" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="92" column="0" filename="$USER_HOME$/repos/dawn/dal/product_dal.py" />
       <jump line="73" column="8" filename="$USER_HOME$/repos/dawn/dal/product_dal.py" />
+      <jump line="163" column="15" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="4" column="32" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="140" column="16" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="141" column="40" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="142" column="46" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="170" column="57" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="5" column="32" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="175" column="31" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>线</text>
+        <text>is None</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
@@ -233,28 +240,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBmdW5jLCBhbmRfCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmFkZChlZmZlY3RlZF9yZWNvcmRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBlZmZlY3RlZF9yZWNvcmRzLmlzX2RlbCA9IDEKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVtcGxhdGUsIHUnaWTkuI3mraPnoa4nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCByZWFkX3Nlc3Npb25fc2NvcGUoQWREbXBSZWFkU2Vzc2lvbikgYXMgcmVhZF9zZXNzaW9uOgogICAgICAgICAgICAgICAgZXhpc3QgPSByZWFkX3Nlc3Npb24ucXVlcnkoRGF3blRlbXBsYXRlLmtleSA9PSBrZXkpLmNvdW50KCkKICAgICAgICAgICAgICAgIGlmIGV4aXN0ID4gMDoKICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oImtleSBpcyBleGlzdGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZSkuZmlsdGVyKERhd25UZW1wbGF0ZS5pZCA9PSBpZCkuc2V0KERhd25UZW1wbGF0ZS5pc19kZWwgPT0gMSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggd3JpdGVfc2Vzc2lvbl9zY29wZShBZERtcFJlYWRTZXNzaW9uKSBhcyBzZXNzaW9uOgogICAgICAgIHNlc3Npb24uYWRkKG5ld190ZW1wbGF0ZSkKICAgICAgICByZXR1cm4gbmV3X3RlbXBsYXRlLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZSkuZmlsdGVyKERhd25UZW1wbGF0ZS5pZCA9PSBpZCkuc2V0KERhd25UZW1wbGF0ZS5pc19kZWwgPT0gMSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggcmVhZF9zZXNzaW9uX3Njb3BlKEFkRG1wUmVhZFNlc3Npb24pIGFzIHNlc3Npb246CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBmcmFtZSBpbXBvcnQgbG9nZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCmZyb20gc3FsYWxjaGVteS5zcWwgaW1wb3J0IGV4aXN0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
