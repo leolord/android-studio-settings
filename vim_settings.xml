@@ -77,12 +77,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542696143662">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="70" column="25" />
-        <mark key="^" line="70" column="25" />
+      <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542702159291">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="52" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/frame/django_bootstrap.py" timestamp="1542614120682" />
       <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1542618843102">
@@ -107,19 +107,20 @@
         <mark key="^" line="166" column="21" />
         <mark key="." line="166" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542700672820">
-        <mark key="'" line="20" column="16" />
-        <mark key="[" line="46" column="67" />
-        <mark key="]" line="46" column="67" />
-        <mark key="." line="46" column="67" />
-        <mark key="^" line="43" column="19" />
+      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542707838699">
+        <mark key="p" line="163" column="13" />
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="207" column="37" />
+        <mark key="]" line="207" column="45" />
+        <mark key="^" line="207" column="44" />
+        <mark key="." line="207" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542700175593">
-        <mark key="'" line="274" column="28" />
-        <mark key="[" line="283" column="11" />
-        <mark key="]" line="283" column="14" />
-        <mark key="." line="283" column="14" />
-        <mark key="^" line="283" column="14" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542707577814">
+        <mark key="'" line="373" column="0" />
+        <mark key="[" line="406" column="4" />
+        <mark key="]" line="406" column="28" />
+        <mark key="." line="361" column="27" />
+        <mark key="^" line="361" column="27" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/tos.py" timestamp="1542634251924">
         <mark key="'" line="0" column="0" />
@@ -145,14 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="12" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_ad_event_cache.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="44" column="16" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="67" column="20" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/ad_dataflow/game_stat/event_cache/game_talent_event_cache.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/work/test/LeoPyBlog/leo_site/blog/forms.py" />
       <jump line="426" column="27" filename="$USER_HOME$/work/django/django/forms/models.py" />
       <jump line="278" column="18" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
       <jump line="287" column="19" filename="$USER_HOME$/repos/adweb/djangosite/ad/views/ad.py" />
@@ -245,58 +238,66 @@
       <jump line="30" column="13" filename="$USER_HOME$/repos/dawn/dal/product_dal.py" />
       <jump line="19" column="16" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="274" column="28" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/repos/dawn/api/product.py" />
+      <jump line="73" column="27" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="180" column="4" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="168" column="3" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="361" column="4" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="373" column="0" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text encoding="base64">XDx0ZW1wbGF0ZV9pZFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGVtcGxhdGVzIA==</text>
+        <text>versionId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgIG9wZXJhdG9yX2lkID0gaW50KHJlcXVlc3QuZW1wbG95ZWVfaWQpCiAgICBvcGVyYXRvcl9uYW1lID0gcmVxdWVzdC5lbXBsb3llZV9uYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPOiByZXZpZXcK</text>
+        <text encoding="base64">ICAgIOWPkeW4g+S4gOS4quaooeadv+eahOeJiOacrAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgYWxsX3BhcmFtcyA9IHJlcXVlc3QuUE9TVC5jb3B5KCkKICAgIGlkID0gaW50KGFsbF9wYXJhbXMuZ2V0KCdpZCcsIDApKQogICAgbmFtZSA9IGFsbF9wYXJhbXMuZ2V0KCduYW1lJywgJycpCiAgICBwcm9kdWN0X2lkID0gaW50KGFsbF9wYXJhbXMuZ2V0KCdwcm9kdWN0X2lkJywgMCkpCiAgICBwcm9kdWN0X2tleSA9IGFsbF9wYXJhbXMuZ2V0KCdwcm9kdWN0X2tleScpCiAgICB0ZW1wbGF0ZSA9IGFsbF9wYXJhbXMuZ2V0KCd0ZW1wbGF0ZScsICd7fScpCiAgICBkYXRhID0gYWxsX3BhcmFtcy5nZXQoJ2RhdGEnLCAne30nKQogICAgc3RhdHVzID0gaW50KGFsbF9wYXJhbXMuZ2V0KCdzdGF0dXMnLCAwKSkKICAgIG9wZXJhdG9yX2lkID0gcmVxdWVzdC5lbXBsb3llZV9pZAogICAgb3BlcmF0b3JfbmFtZSA9IHJlcXVlc3QuZW1wbG95ZWVfbmFtZQogICAgdHJ5OgogICAgICAgIHRlbXBsYXRlX2RhbC5jcmVhdGVfb3JfdXBkYXRlX3RlbXBsYXRlKAogICAgICAgICAgICBpZD1pZCwKICAgICAgICAgICAgbmFtZT1uYW1lLAogICAgICAgICAgICBwcm9kdWN0X2lkPXByb2R1Y3RfaWQsCiAgICAgICAgICAgIHByb2R1Y3Rfa2V5PXByb2R1Y3Rfa2V5LAogICAgICAgICAgICB0ZW1wbGF0ZT10ZW1wbGF0ZSwKICAgICAgICAgICAgZGF0YT1kYXRhLAogICAgICAgICAgICBzdGF0dXM9c3RhdHVzLAogICAgICAgICAgICBvcGVyYXRvcl9pZD1vcGVyYXRvcl9pZCwKICAgICAgICAgICAgb3BlcmF0b3JfbmFtZT1vcGVyYXRvcl9uYW1lKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIGxvZ2dlci5lcnJvcignZGF3biB0ZW1wbGF0ZSB1cGRhdGUgZXJyb3IgJXMnICUgZS5tZXNzYWdlKQogICAgICAgIHJldHVybiBqc29uX2ZhaWxfcmVzcG9uc2UoZS5tZXNzYWdlKQogICAgcmV0dXJuIGpzb25fc3VjY2Vzc19yZXNwb25zZSgpCg==</text>
+        <text encoding="base64">ICAgIGJhc2VfdmVyc2lvbiA9IGFsbF9wYXJhbXMuZ2V0KCdiYXNlX3ZlcnNpb24nKQogICAgdmVyc2lvbiA9IGFsbF9wYXJhbXMuZ2V0KCd2ZXJzaW9uJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsbF9wYXJhbXMgPSByZXF1ZXN0LlBPU1QuY29weSgpCgogICAgbmFtZSA9IGFsbF9wYXJhbXMuZ2V0KCduYW1lJykKICAgIHByb2R1Y3RfaWQgPSBpbnQoYWxsX3BhcmFtcy5nZXQoJ3Byb2R1Y3RJZCcpKQogICAga2V5ID0gYWxsX3BhcmFtcy5nZXQoJ2tleScpCiAgICB0ZW1wbGF0ZSA9IGFsbF9wYXJhbXMuZ2V0KCd0ZW1wbGF0ZScsICd7fScpCiAgICBkYXRhID0gYWxsX3BhcmFtcy5nZXQoJ2RhdGEnLCAne30nKQogICAgb3BlcmF0b3JfaWQgPSBpbnQocmVxdWVzdC5lbXBsb3llZV9pZCkKICAgIG9wZXJhdG9yX25hbWUgPSByZXF1ZXN0LmVtcGxveWVlX25hbWUKCiAgICB0ZW1wbGF0ZSA9IHRlbXBsYXRlX2RhbC5jcmVhdGVfb3JfdXBkYXRlX3RlbXBsYXRlKAogICAgICAgIG5hbWU9bmFtZSwKICAgICAgICBwcm9kdWN0X2lkPXByb2R1Y3RfaWQsCiAgICAgICAga2V5PWtleSwKICAgICAgICB0ZW1wbGF0ZT10ZW1wbGF0ZSwKICAgICAgICBkYXRhPWRhdGEsCiAgICAgICAgb3BlcmF0b3JfaWQ9b3BlcmF0b3JfaWQsCiAgICAgICAgb3BlcmF0b3JfbmFtZT1vcGVyYXRvcl9uYW1lKQogICAgcmV0dXJuIGpzb25fc3VjY2Vzc19yZXNwb25zZSh7ImlkIjogdGVtcGxhdGUuaWR9KQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUT0RPOiByZXZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbW9kZWxfbmFtZSBpcyAndGVtcGxhdGUnOgogICAgICAgICAgICAgICAgZmlsdGVyX2xpc3QuYXBwZW5kKG1vZGVsLmlkID09IHRlbXBsYXRlX2lkKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgZmlsdGVyX2xpc3QuYXBwZW5kKG1vZGVsLnRlbXBsYXRlX2lkID09IHRlbXBsYXRlX2lkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search encoding="base64">XDx0ZW1wbGF0ZV9pZFw+</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wbGF0ZV9pZFw+</last-pattern>
       <last-replace>TemplateVersionStatus</last-replace>
       <last-substitute>TemplateStatus</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -314,6 +315,7 @@
         <entry encoding="base64">XDxUZW1wbGF0ZVZlcnNpb25TdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxEYXduVGVtcGxhdGVWZXJzaW9uXD4=</entry>
         <entry>instance</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZV9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
