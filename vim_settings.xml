@@ -24,10 +24,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/conf/deploy.conf" timestamp="1542613915116">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
+      <file name="$USER_HOME$/repos/dawn/conf/deploy.conf" timestamp="1542634247162">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="55" />
       </file>
       <file name="/a.dummy" timestamp="1542364981925">
         <mark key="[" line="0" column="0" />
@@ -37,17 +38,16 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542627099770">
-        <mark key="'" line="41" column="62" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="17" column="26" />
+      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542634340820">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="13" />
+        <mark key="^" line="80" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/settings.py" timestamp="1542614192232">
+      <file name="$USER_HOME$/repos/dawn/settings.py" timestamp="1542633524548">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="4" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="38" />
         <mark key="^" line="45" column="35" />
         <mark key="." line="44" column="4" />
       </file>
@@ -71,6 +71,7 @@
         <mark key="]" line="477" column="9" />
         <mark key="." line="911" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/pytos/tos.py" timestamp="1542633991435" />
       <file name="$USER_HOME$/repos/dawn/common/constant.py" timestamp="1542614858226">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -113,12 +114,19 @@
         <mark key="^" line="43" column="69" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542629532525">
-        <mark key="'" line="175" column="31" />
-        <mark key="[" line="183" column="21" />
-        <mark key="]" line="183" column="21" />
-        <mark key="^" line="183" column="21" />
-        <mark key="." line="183" column="21" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542634592709">
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="228" column="26" />
+        <mark key="]" line="228" column="28" />
+        <mark key="." line="228" column="28" />
+        <mark key="^" line="228" column="28" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/common/tos.py" timestamp="1542634251924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542614312741">
         <mark key="'" line="34" column="3" />
@@ -170,7 +178,6 @@
       <jump line="3" column="66" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
       <jump line="70" column="51" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
       <jump line="53" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
       <jump line="54" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
       <jump line="61" column="16" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
       <jump line="62" column="13" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
@@ -220,57 +227,65 @@
       <jump line="141" column="40" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="142" column="46" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="170" column="57" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="175" column="31" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="42" column="47" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="72" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
+      <jump line="222" column="24" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="5" column="46" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/dawn/common/tos.py" />
+      <jump line="232" column="23" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="80" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>is None</text>
+        <text>布</text>
       </register>
       <register name="/" type="4">
-        <text>string</text>
+        <text encoding="base64">XDxBZERtcFdyaXRlU2Vzc2lvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>DawnTemplate</text>
+        <text>DawnTemplateVersion</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmFkZChlZmZlY3RlZF9yZWNvcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlZmZlY3RlZF9yZWNvcmRzLmlzX2RlbCA9IDEKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdGVtcGxhdGUsIHUnaWTkuI3mraPnoa4nCg==</text>
+        <text encoding="base64">ZnVuY3Rpbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZSkuZmlsdGVyKERhd25UZW1wbGF0ZS5pZCA9PSBpZCkuc2V0KERhd25UZW1wbGF0ZS5pc19kZWwgPT0gMSkKCg==</text>
+        <text encoding="base64">YnVja2V0ID0gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZSkuZmlsdGVyKERhd25UZW1wbGF0ZS5pZCA9PSBpZCkuc2V0KERhd25UZW1wbGF0ZS5pc19kZWwgPT0gMSkKCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcyBmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbAo=</text>
+        <text encoding="base64">IyBjb2Rpbmc6IHV0ZjgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmcmFtZSBpbXBvcnQgbG9nZ2VyCg==</text>
+        <text encoding="base64">ZnJvbSBweXRvcyBpbXBvcnQgdG9zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCmZyb20gc3FsYWxjaGVteS5zcWwgaW1wb3J0IGV4aXN0cwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PTAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>string</last-search>
+      <last-search encoding="base64">XDxBZERtcFdyaXRlU2Vzc2lvblw+</last-search>
       <last-offset />
-      <last-pattern>string</last-pattern>
+      <last-pattern encoding="base64">XDxBZERtcFdyaXRlU2Vzc2lvblw+</last-pattern>
       <last-replace>str</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>-1</last-dir>
@@ -285,6 +300,7 @@
         <entry>ALLOW</entry>
         <entry encoding="base64">XDxEYXduUHJvZHVjdFw+</entry>
         <entry>string</entry>
+        <entry encoding="base64">XDxBZERtcFdyaXRlU2Vzc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
