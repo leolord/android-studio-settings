@@ -38,11 +38,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542634340820">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="82" column="13" />
-        <mark key="^" line="80" column="52" />
+      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542681823848">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/repos/dawn/settings.py" timestamp="1542633524548">
         <mark key="'" line="0" column="0" />
@@ -114,12 +115,12 @@
         <mark key="^" line="43" column="69" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542634592709">
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542682431961">
         <mark key="'" line="7" column="28" />
-        <mark key="[" line="228" column="26" />
-        <mark key="]" line="228" column="28" />
-        <mark key="." line="228" column="28" />
-        <mark key="^" line="228" column="28" />
+        <mark key="[" line="291" column="51" />
+        <mark key="]" line="292" column="31" />
+        <mark key="^" line="292" column="31" />
+        <mark key="." line="292" column="31" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/tos.py" timestamp="1542634251924">
         <mark key="'" line="0" column="0" />
@@ -243,40 +244,40 @@
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>布</text>
+        <text>）</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZERtcFdyaXRlU2Vzc2lvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>DawnTemplateVersion</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyX2xpc3QuYXBwZW5kKERhd25UZW1wbGF0ZS5zdGF0dXMgPT0gc3RhdHVzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIENSRUFURV9USU1FID0gMQogICAgTU9ESUZZX1RJTUUgPSAxCiAgICBQVUJMSVNIX1RJTUUgPSAxCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YnVja2V0ID0gIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0bXQgPSBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZVZlcnNpb24pXAogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoRGF3blRlbXBsYXRlVmVyc2lvbi5zdGF0dXMgPT0gVGVtcGxhdGVTdGF0dXMuT05MSU5FKVwKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKERhd25UZW1wbGF0ZVZlcnNpb24ubW9kaWZ5X3RpbWUuYmV0d2VlbihzdGFydF90aW1lLCBlbmRfdGltZSkpXAogICAgICAgICAgICAgICAgICAgIC5zdWJxdWVyeSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcyBmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0gcXVlcnkuam9pbihzdG10LCBEYXduVGVtcGxhdGUuaWQgPT0gc3RtdC5jLnRlbXBsYXRlX2lkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjb2Rpbmc6IHV0ZjgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBweXRvcyBpbXBvcnQgdG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0gcXVlcnkuZmlsdGVyKERhd25UZW1wbGF0ZS5tb2RpZnlfdGltZS5iZXR3ZWVuKHN0YXJ0X3RpbWUsIGVuZF90aW1lKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PTAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0gcXVlcnkuZmlsdGVyKERhd25UZW1wbGF0ZS5jcmVhdGVfdGltZS5iZXR3ZWVuKHN0YXJ0X3RpbWUsIGVuZF90aW1lKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
