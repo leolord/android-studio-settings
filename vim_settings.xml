@@ -26,12 +26,12 @@
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/settings.py" timestamp="1542783280573">
+      <file name="$USER_HOME$/repos/dawn/settings.py" timestamp="1542787233293">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="45" column="18" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="45" column="18" />
+        <mark key="[" line="35" column="81" />
+        <mark key="]" line="35" column="81" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="35" column="81" />
       </file>
       <file name="$USER_HOME$/repos/dawn/api/auth.py" timestamp="1542781282240">
         <mark key="'" line="7" column="0" />
@@ -72,6 +72,7 @@
         <mark key="^" line="259" column="33" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/middleware/common.py" timestamp="1542781462542" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/service_rpc/thrift_gen/session/SessionService.py" timestamp="1542787001579" />
       <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542781157944">
         <mark key="'" line="35" column="3" />
         <mark key="[" line="17" column="38" />
@@ -85,7 +86,7 @@
       <file name="vim_settings.xml" timestamp="1542593599365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542783293004">
+      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542786417470">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -105,22 +106,10 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/dawn/common/scoped.py" timestamp="1542615512221" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/pytos/tos.py" timestamp="1542633991435" />
-      <file name="$USER_HOME$/repos/dawn/common/constant.py" timestamp="1542614858226">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/repos/dawn/conf/deploy_local.conf" timestamp="1542614166805">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542774673594">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/frame/django_bootstrap.py" timestamp="1542614120682" />
       <file name="/Dummy.txt" timestamp="1542769797442">
@@ -148,7 +137,7 @@
         <mark key="^" line="22" column="73" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/employee/util.py" timestamp="1542783145677">
+      <file name="$USER_HOME$/repos/dawn/common/employee/util.py" timestamp="1542787685015">
         <mark key="[" line="51" column="20" />
         <mark key="]" line="51" column="22" />
         <mark key="." line="51" column="22" />
@@ -264,13 +253,13 @@
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>/api/pduct/list'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="4">
-        <text>create_version</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdwYXNzcG9ydC5zZXNzaW9uX3B5Y2xpZW50LmFjY291bnQuZGphbmdvX21pZGRsZXdhcmUuQWNjb3VudFNlc3Npb25NaWRkbGV3YXJlJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
