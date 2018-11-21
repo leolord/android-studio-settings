@@ -33,11 +33,13 @@
         <mark key="^" line="46" column="18" />
         <mark key="." line="35" column="81" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/api/auth.py" timestamp="1542781282240">
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1227933812/requests/api.py" timestamp="1542788744125" />
+      <file name="$USER_HOME$/repos/dawn/api/auth.py" timestamp="1542788408632">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/repos/dawn/model/session.py" timestamp="1542627074472">
         <mark key="'" line="42" column="22" />
@@ -51,25 +53,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/core/servers/basehttp.py" timestamp="1542784801954" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/contrib/auth/middleware.py" timestamp="1542783256983" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/201544331/BaseHTTPServer.py" timestamp="1542785052143" />
-      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1542773156484">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/common/decorator.py" timestamp="1542774305979">
+      <file name="$USER_HOME$/repos/dawn/common/decorator.py" timestamp="1542789376569">
         <mark key="'" line="24" column="9" />
         <mark key="[" line="31" column="50" />
         <mark key="]" line="31" column="50" />
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="49" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542780606154">
-        <mark key="p" line="163" column="13" />
-        <mark key="[" line="175" column="4" />
-        <mark key="]" line="175" column="17" />
-        <mark key="." line="259" column="33" />
-        <mark key="^" line="259" column="33" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/middleware/common.py" timestamp="1542781462542" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/service_rpc/thrift_gen/session/SessionService.py" timestamp="1542787001579" />
@@ -86,15 +75,16 @@
       <file name="vim_settings.xml" timestamp="1542593599365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542786417470">
+      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542789863946">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/auth.py" timestamp="1542614970014">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repos/dawn/common/auth.py" timestamp="1542789680717">
+        <mark key="[" line="33" column="64" />
+        <mark key="]" line="33" column="71" />
+        <mark key="." line="33" column="71" />
+        <mark key="^" line="33" column="71" />
       </file>
       <file name="/Python Console" timestamp="1542782955818">
         <mark key="[" line="0" column="0" />
@@ -106,6 +96,12 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/dawn/common/scoped.py" timestamp="1542615512221" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/pytos/tos.py" timestamp="1542633991435" />
+      <file name="$USER_HOME$/repos/dawn/common/constant.py" timestamp="1542789460560">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="22" column="21" />
+      </file>
       <file name="$USER_HOME$/repos/dawn/conf/deploy_local.conf" timestamp="1542614166805">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -129,6 +125,7 @@
         <mark key="." line="97" column="15" />
         <mark key="^" line="97" column="15" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/dawn/common/constant.py" timestamp="1542788365393" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/core/handlers/base.py" timestamp="1542783944606" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/dawn/dal/template_dal.py" timestamp="1542596549908">
         <mark key="'" line="11" column="4" />
@@ -137,11 +134,11 @@
         <mark key="^" line="22" column="73" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/employee/util.py" timestamp="1542787685015">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="22" />
-        <mark key="." line="51" column="22" />
-        <mark key="^" line="51" column="22" />
+      <file name="$USER_HOME$/repos/dawn/common/employee/util.py" timestamp="1542789772113">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313986416/passport/session_pyclient/common/django_middleware.py" timestamp="1542782617019" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/201544331/SocketServer.py" timestamp="1542784865057" />
@@ -253,13 +250,13 @@
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>http</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdwYXNzcG9ydC5zZXNzaW9uX3B5Y2xpZW50LmFjY291bnQuZGphbmdvX21pZGRsZXdhcmUuQWNjb3VudFNlc3Npb25NaWRkbGV3YXJlJywK</text>
+      <register name="0" type="4">
+        <text>AD_AUTH_APP_ID</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
