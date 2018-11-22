@@ -12,7 +12,7 @@
       <file name="/a.dummy" timestamp="1542684022038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542804467520">
+      <file name="$USER_HOME$/repos/dawn/model/db/model.py" timestamp="1542871719851">
         <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/util.py" timestamp="1542774562086">
@@ -63,12 +63,12 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542855491769">
+      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542871201378">
         <mark key="p" line="171" column="13" />
-        <mark key="[" line="208" column="4" />
-        <mark key="]" line="208" column="22" />
-        <mark key="^" line="222" column="47" />
-        <mark key="." line="222" column="47" />
+        <mark key="[" line="230" column="4" />
+        <mark key="]" line="230" column="23" />
+        <mark key="^" line="199" column="125" />
+        <mark key="." line="199" column="120" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/middleware/common.py" timestamp="1542781462542" />
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/service_rpc/thrift_gen/session/SessionService.py" timestamp="1542790855674" />
@@ -79,12 +79,12 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542855234115">
-        <mark key="'" line="39" column="3" />
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="63" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542871210309">
+        <mark key="'" line="40" column="3" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313986416/passport/session_pyclient/account/django_middleware.py" timestamp="1542782239151" />
       <file name="$USER_HOME$/repos/dawn/init.py" timestamp="1542794290495">
@@ -108,7 +108,7 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
-      <file name="/Python Console" timestamp="1542856268638">
+      <file name="/Python Console" timestamp="1542871222115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1542869378697">
@@ -145,11 +145,11 @@
         <mark key="." line="68" column="54" />
         <mark key="^" line="68" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542869789735">
-        <mark key="[" line="432" column="25" />
-        <mark key="]" line="432" column="30" />
-        <mark key="." line="432" column="30" />
-        <mark key="^" line="432" column="30" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542872806005">
+        <mark key="[" line="599" column="79" />
+        <mark key="]" line="566" column="75" />
+        <mark key="." line="566" column="75" />
+        <mark key="^" line="566" column="75" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/dawn/common/constant.py" timestamp="1542788365393" />
       <file name="$USER_HOME$/repos/dawn/common/semver.py" timestamp="1542804617765">
@@ -283,37 +283,37 @@
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>datetime.datetime.now()</text>
       </register>
       <register name="/" type="4">
         <text>.value</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGVtcGxhdGVfbGlzdCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBsYXRlLnB1Ymxpc2hfdGltZSA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X3ZlcnNpb24ub3BlcmF0b3JfaWQgPSBvcGVyYXRvcl9pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwX2J5KERhd25UZW1wbGF0ZS5pZClcCg==</text>
+        <text encoding="base64">ICAgICAgICAjIOS4i+e6v+S5i+WJjeeahHZlcnNpb24KICAgICAgICBpZiBwdWJsaXNoOgogICAgICAgICAgICBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZVZlcnNpb24pXAogICAgICAgICAgICAgICAgLmZpbHRlcihEYXduVGVtcGxhdGVWZXJzaW9uLnN0YXR1cyA9PSBUZW1wbGF0ZVZlcnNpb25TdGF0dXMuT05MSU5FKVwKICAgICAgICAgICAgICAgIC5maWx0ZXIoRGF3blRlbXBsYXRlVmVyc2lvbi5pc19kZWwgPT0gMClcCiAgICAgICAgICAgICAgICAuZmlsdGVyKERhd25UZW1wbGF0ZVZlcnNpb24udGVtcGxhdGVfaWQuaW5fKHRlbXBsYXRlX2lkX2xpc3QpKS51cGRhdGUoewogICAgICAgICAgICAgICAgICAgIERhd25UZW1wbGF0ZVZlcnNpb24uc3RhdHVzOiBUZW1wbGF0ZVZlcnNpb25TdGF0dXMuT0ZGTElORQogICAgICAgICAgICAgICAgfSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm91dGVyam9pbihEYXduVGVtcGxhdGVWZXJzaW9uLCBEYXduVGVtcGxhdGUuaWQgPT0gRGF3blRlbXBsYXRlVmVyc2lvbi50ZW1wbGF0ZV9pZClcCg==</text>
+        <text encoding="base64">ICAgICAgICAjIOS4i+e6v+S5i+WJjeeahHZlcnNpb24KICAgICAgICBpZiBwdWJsaXNoOgogICAgICAgICAgICBzZXNzaW9uLnF1ZXJ5KERhd25UZW1wbGF0ZVZlcnNpb24pXAogICAgICAgICAgICAgICAgLmZpbHRlcihEYXduVGVtcGxhdGVWZXJzaW9uLnN0YXR1cyA9PSBUZW1wbGF0ZVZlcnNpb25TdGF0dXMuT05MSU5FKVwKICAgICAgICAgICAgICAgIC5maWx0ZXIoRGF3blRlbXBsYXRlVmVyc2lvbi5pc19kZWwgPT0gMClcCiAgICAgICAgICAgICAgICAuZmlsdGVyKERhd25UZW1wbGF0ZVZlcnNpb24udGVtcGxhdGVfaWQuaW5fKHRlbXBsYXRlX2lkX2xpc3QpKS51cGRhdGUoewogICAgICAgICAgICAgICAgICAgIERhd25UZW1wbGF0ZVZlcnNpb24uc3RhdHVzOiBUZW1wbGF0ZVZlcnNpb25TdGF0dXMuT0ZGTElORQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX3ZlcnNpb25fc3VicXVlcnkgPSBzZXNzaW9uLnF1ZXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyDkuIvnur/kuYvliY3nmoR2ZXJzaW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihEYXduVGVtcGxhdGUuaWQuaW5fKHRlbXBsYXRlX2lkX2xpc3QpKVwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5xdWVyeShEYXduVGVtcGxhdGUpLndoZXJlKERhd25UZW1wbGF0ZS5pZC5pbl8oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbl9saXN0W2lkeF0gPSBuZXdfdmVyc2lvbgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
