@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1542593599365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542856323266">
-        <mark key="'" line="3" column="10" />
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="52" column="72" />
-        <mark key="^" line="49" column="44" />
-        <mark key="." line="52" column="40" />
-      </file>
-      <file name="/Python Console" timestamp="1542879509035">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1542882639813">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="/a.dummy" timestamp="1542684022038">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,6 +37,62 @@
         <mark key="^" line="79" column="16" />
         <mark key="." line="79" column="16" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/626867430/pyutil/weibo/__init__.py" timestamp="1542965013316" />
+      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1542879491698">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/ad_site_common/international/util.py" timestamp="1542964570159" />
+      <file name="$USER_HOME$/repos/dawn/common/decorator.py" timestamp="1542789376569">
+        <mark key="'" line="24" column="9" />
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="49" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542887275724">
+        <mark key="p" line="172" column="13" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/adweb_i18n/conf/deploy.conf" timestamp="1542965198483" />
+      <file name="$USER_HOME$/repos/adweb_i18n/settings.py" timestamp="1542964227401" />
+      <file name="$USER_HOME$/repos/dawn/common/tos.py" timestamp="1542794596459">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542883351350">
+        <mark key="'" line="41" column="3" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1542593599365">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/common/middleware.py" timestamp="1542856323266">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="52" column="72" />
+        <mark key="^" line="49" column="44" />
+        <mark key="." line="52" column="40" />
+      </file>
+      <file name="/Python Console" timestamp="1542879509035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1542882639813">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/dawn/api/product.py" timestamp="1542888184368">
         <mark key="'" line="20" column="29" />
         <mark key="[" line="94" column="29" />
@@ -63,20 +101,6 @@
         <mark key="." line="94" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-313976076/frame/django_bootstrap.py" timestamp="1542955282150" />
-      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1542879491698">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/common/decorator.py" timestamp="1542789376569">
-        <mark key="'" line="24" column="9" />
-        <mark key="[" line="31" column="50" />
-        <mark key="]" line="31" column="50" />
-        <mark key="." line="31" column="50" />
-        <mark key="^" line="31" column="49" />
-      </file>
       <file name="/Dummy.txt" timestamp="1542855386079">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,12 +111,6 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1542887275724">
-        <mark key="p" line="172" column="13" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1542887281748">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="121" column="26" />
@@ -100,30 +118,12 @@
         <mark key="." line="121" column="36" />
         <mark key="^" line="121" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/tos.py" timestamp="1542794596459">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-      </file>
       <file name="$USER_HOME$/repos/dawn/common/semver.py" timestamp="1542804617765">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="15" />
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542883351350">
-        <mark key="'" line="41" column="3" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
-      </file>
-      <file name="$USER_HOME$/repos/dawn/init.py" timestamp="1542794290495">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/dawn/dal/template_dal.py" timestamp="1542797200570">
         <mark key="'" line="11" column="4" />
