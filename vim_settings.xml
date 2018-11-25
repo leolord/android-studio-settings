@@ -59,7 +59,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/adweb_i18n/conf/deploy.conf" timestamp="1542965198483" />
+      <file name="$USER_HOME$/repos/adweb_i18n/conf/deploy.conf" timestamp="1543113425339">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/repos/adweb_i18n/settings.py" timestamp="1542964227401" />
       <file name="$USER_HOME$/repos/dawn/common/tos.py" timestamp="1542794596459">
         <mark key="'" line="0" column="0" />
@@ -252,8 +255,8 @@
       <register name="/" type="4">
         <text>pick</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvWydkYXRhJ10gPSBqc29uLmxvYWRzKGRhd25fcHJvZHVjdC5kYXRhIG9yICJ7fSIpCg==</text>
+      <register name="0" type="4">
+        <text>db_ad_capital</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeQo=</text>
