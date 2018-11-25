@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/adweb_i18n/djangosite/common/middleware.py" timestamp="1543115013037">
+      <file name="$USER_HOME$/repos/adweb_i18n/djangosite/common/middleware.py" timestamp="1543117492104">
         <mark key="'" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/util.py" timestamp="1542882173128">
@@ -63,7 +63,7 @@
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/adweb_i18n/settings.py" timestamp="1543116561306">
+      <file name="$USER_HOME$/repos/adweb_i18n/settings.py" timestamp="1543117974052">
         <mark key="'" line="151" column="39" />
         <mark key="[" line="153" column="42" />
         <mark key="]" line="153" column="64" />
