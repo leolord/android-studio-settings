@@ -65,7 +65,7 @@
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1543229400789">
+      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1543230790030">
         <mark key="p" line="174" column="13" />
         <mark key="'" line="83" column="14" />
         <mark key="[" line="113" column="40" />
@@ -119,10 +119,10 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
-      <file name="/Python Console" timestamp="1543221949053">
+      <file name="/Python Console" timestamp="1543231039372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1543223669031">
+      <file name="/fragment.py" timestamp="1543231252522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -165,12 +165,12 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543229474781">
-        <mark key="'" line="302" column="8" />
-        <mark key="[" line="699" column="52" />
-        <mark key="]" line="700" column="11" />
-        <mark key="." line="700" column="11" />
-        <mark key="^" line="700" column="11" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543231737159">
+        <mark key="'" line="301" column="77" />
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="299" column="27" />
+        <mark key="." line="299" column="27" />
+        <mark key="^" line="299" column="27" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/semver.py" timestamp="1542804617765">
         <mark key="'" line="6" column="0" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="196" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="361" column="4" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="373" column="0" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
@@ -301,55 +300,56 @@
       <jump line="294" column="35" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="276" column="28" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="293" column="8" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="300" column="77" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>线</text>
+        <text>, DawnTemplate.product_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZERtcFJlYWRTZXNzaW9uXD4=</text>
+        <text encoding="base64">XDxzb3VyY2VfdGVtcGxhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZvWydzdGF0dXNOYW1lJ10gPSAn5bey5LiL57q/Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihEYXduVGVtcGxhdGVWZXJzaW9uLnRlbXBsYXRlX2lkID09IHRlbXBsYXRlX2lkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZvWydzdGF0dXMnXSA9IDMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXduX3RlbXBsYXRlLnN0YXR1cyA9PSBUZW1wbGF0ZVZlcnNpb25TdGF0dXMuT05MSU5FOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEYXduVGVtcGxhdGVWZXJzaW9uLnRlbXBsYXRlX2lkID09IERhd25UZW1wbGF0ZS5pZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIOS7jlZlcnNpb27ooajmn6XnmoQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGhhcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBiYXNlX3ZlcnNpb246CiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBiYXNlX3ZlcnNpb246CiAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjcmVhdGUgYW5kIHRlbXBsYXRlIGlzIE5vbmU6CiAgICAgICAgICAgIHRlbXBsYXRlID0ganNvbi5kdW1wcyh7ImluZm8iOiB7Im5hbWUiOiBuYW1lfSwgImJvYXJkcyI6IFtdfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3RlbXBsYXRlLCBwcm9kdWN0X2lkXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcm9kdWN0X2lkIGlzIE5vbmUgYW5kIGNyZWF0ZToKICAgICAgICAgICAgcmFpc2UgQXBpRXhjZXB0aW9uKCdwcm9kdWN0IGlkIGlzIG5lZWRlZCcsIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZvWydzdGF0dXMnXSA9IDMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjcmVhdGUgYW5kIHByCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkYXduX3RlbXBsYXRlLnN0YXR1cyA9PSBUZW1wbGF0ZVZlcnNpb25TdGF0dXMuT05MSU5FOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9kdWN0IOacieaViOaAp+WIpOaWrQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZERtcFJlYWRTZXNzaW9uXD4=</last-search>
+      <last-search encoding="base64">XDxzb3VyY2VfdGVtcGxhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZERtcFJlYWRTZXNzaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzb3VyY2VfdGVtcGxhdGVcPg==</last-pattern>
       <last-replace />
       <last-substitute>.value</last-substitute>
       <last-dir>-1</last-dir>
@@ -357,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TemplateVersionStatus.OFFLINE</entry>
         <entry>TemplateVersionStatus.ONLINE</entry>
         <entry>.value</entry>
         <entry>pick</entry>
@@ -377,6 +376,7 @@
         <entry encoding="base64">XDxkZXRhaWxcPg==</entry>
         <entry>template.name</entry>
         <entry encoding="base64">XDxBZERtcFJlYWRTZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxzb3VyY2VfdGVtcGxhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
