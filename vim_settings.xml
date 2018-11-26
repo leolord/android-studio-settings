@@ -44,7 +44,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/626867430/pyutil/weibo/__init__.py" timestamp="1542965013316" />
-      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1543199618121">
+      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1543202366158">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="18" />
@@ -58,6 +58,14 @@
         <mark key="]" line="31" column="60" />
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/api/template.py" timestamp="1543203089374">
+        <mark key="p" line="174" column="13" />
+        <mark key="'" line="83" column="14" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="87" column="38" />
       </file>
       <file name="$USER_HOME$/repos/adweb_i18n/conf/deploy.conf" timestamp="1543113425339">
         <mark key="[" line="18" column="21" />
@@ -76,7 +84,7 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1543199807998">
+      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1543202585665">
         <mark key="'" line="41" column="3" />
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
@@ -104,14 +112,19 @@
       <file name="$USER_HOME$/repos/adweb_i18n/djangosite/ad_site/urls.py" timestamp="1543122719720">
         <mark key="'" line="118" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1543198515242">
+      <file name="/Python Console" timestamp="1543202399118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/common/http.py" timestamp="1543124299360">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="38" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="54" column="38" />
+      <file name="/fragment.py" timestamp="1543202305409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/dawn/common/http.py" timestamp="1543201392615">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/repos/adweb_i18n/djangosite/auth/middleware.py" timestamp="1543115253152">
         <mark key="'" line="317" column="0" />
@@ -137,12 +150,12 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543199699856">
-        <mark key="'" line="180" column="16" />
-        <mark key="[" line="180" column="41" />
-        <mark key="]" line="180" column="45" />
-        <mark key="." line="180" column="45" />
-        <mark key="^" line="180" column="45" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543203674626">
+        <mark key="'" line="325" column="52" />
+        <mark key="[" line="217" column="19" />
+        <mark key="]" line="217" column="24" />
+        <mark key="." line="217" column="24" />
+        <mark key="^" line="217" column="24" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/semver.py" timestamp="1542804617765">
         <mark key="'" line="6" column="0" />
@@ -173,12 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="42" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="319" column="34" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="291" column="30" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="286" column="25" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="246" column="13" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="171" column="28" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="316" column="47" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="5" column="14" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="338" column="41" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
@@ -193,7 +200,6 @@
       <jump line="19" column="16" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="274" column="28" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="121" column="0" filename="$USER_HOME$/repos/dawn/api/product.py" />
-      <jump line="73" column="27" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="180" column="4" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="168" column="3" filename="$USER_HOME$/repos/dawn/api/template.py" />
       <jump line="174" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
@@ -273,55 +279,62 @@
       <jump line="170" column="66" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="340" column="13" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="180" column="16" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="472" column="15" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="139" column="49" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="185" column="25" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="83" column="14" filename="$USER_HOME$/repos/dawn/api/template.py" />
+      <jump line="325" column="52" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>isdel</text>
+        <text>detail</text>
       </register>
       <register name="0" type="4">
-        <text>/opt/tiger/ss_ad/ad_site_env/lib/python2.7/site-packages</text>
+        <text encoding="base64">VmFsdWVFcnJvciA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlID0gdGVtcGxhdGVfZGFsLmdldF90ZW1wbGF0ZV9saXN0KGlkcz1bdGVtcGxhdGVfaWRdKQogICAgYXNzZXJ0IGxlbih0ZW1wbGF0ZSkgPj0gMSwgdSd0ZW1wbGF0ZeS4jeWtmOWcqCcKICAgIGRhdGEgPSB0ZW1wbGF0ZVswXQogICAgcmV0dXJuIGpzb25fc3VjY2Vzc19yZXNwb25zZShkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCB0ZW1wbGF0ZV9pZCwgdSflj4LmlbDplJnor68nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkYXduLmNvbW1vbi5oCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBBcGlFeGNlcHRpb24KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNVCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fLgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IGdldF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pZCwgc2Vzc2lvbj1zZXNzaW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkYXRhOiBkaWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isdel</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>isdel</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace />
       <last-substitute>.value</last-substitute>
       <last-dir>1</last-dir>
@@ -329,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXduVGVtcGxhdGVWZXJzaW9uXD4=</entry>
         <entry>instance</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZV9pZFw+</entry>
         <entry>TODO</entry>
@@ -349,6 +361,7 @@
         <entry>EmployeeLoginMiddleware</entry>
         <entry encoding="base64">XDxKc29uUmVzcG9uc2VNaXhpblw+</entry>
         <entry>isdel</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
