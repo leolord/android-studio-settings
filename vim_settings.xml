@@ -44,7 +44,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/626867430/pyutil/weibo/__init__.py" timestamp="1542965013316" />
-      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1543198549699">
+      <file name="$USER_HOME$/repos/dawn/bootstrap.py" timestamp="1543199618121">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="18" />
@@ -76,7 +76,7 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1542883351350">
+      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1543199807998">
         <mark key="'" line="41" column="3" />
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
@@ -137,12 +137,12 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543115737410">
-        <mark key="'" line="202" column="20" />
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="23" />
-        <mark key="." line="88" column="23" />
-        <mark key="^" line="88" column="23" />
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543199699856">
+        <mark key="'" line="180" column="16" />
+        <mark key="[" line="180" column="41" />
+        <mark key="]" line="180" column="45" />
+        <mark key="." line="180" column="45" />
+        <mark key="^" line="180" column="45" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/semver.py" timestamp="1542804617765">
         <mark key="'" line="6" column="0" />
@@ -173,10 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="23" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="7" column="28" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
-      <jump line="80" column="4" filename="$USER_HOME$/repos/dawn/model/db/model.py" />
-      <jump line="331" column="16" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="328" column="42" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="319" column="34" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
       <jump line="291" column="30" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
@@ -273,16 +269,20 @@
       <jump line="76" column="52" filename="$USER_HOME$/repos/adweb_i18n/djangosite/i18n/account/view.py" />
       <jump line="27" column="43" filename="$USER_HOME$/repos/dawn/common/decorator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/-1805605029/django/core/servers/basehttp.py" />
+      <jump line="88" column="23" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="170" column="66" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="340" column="13" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
+      <jump line="180" column="16" filename="$USER_HOME$/repos/dawn/dal/template_dal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bXNnPScnLCA=</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKc29uUmVzcG9uc2VNaXhpblw+</text>
+        <text>isdel</text>
       </register>
       <register name="0" type="4">
         <text>/opt/tiger/ss_ad/ad_site_env/lib/python2.7/site-packages</text>
@@ -319,17 +319,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKc29uUmVzcG9uc2VNaXhpblw+</last-search>
+      <last-search>isdel</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKc29uUmVzcG9uc2VNaXhpblw+</last-pattern>
+      <last-pattern>isdel</last-pattern>
       <last-replace />
       <last-substitute>.value</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZW1wbGF0ZVZlcnNpb25TdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxEYXduVGVtcGxhdGVWZXJzaW9uXD4=</entry>
         <entry>instance</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZV9pZFw+</entry>
@@ -349,6 +348,7 @@
         <entry>is &quot;</entry>
         <entry>EmployeeLoginMiddleware</entry>
         <entry encoding="base64">XDxKc29uUmVzcG9uc2VNaXhpblw+</entry>
+        <entry>isdel</entry>
       </history-search>
       <history-cmd>
         <entry>=</entry>
