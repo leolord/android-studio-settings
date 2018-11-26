@@ -84,12 +84,12 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1543202585665">
-        <mark key="'" line="41" column="3" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="10" />
+      <file name="$USER_HOME$/repos/dawn/urls.py" timestamp="1543209018565">
+        <mark key="'" line="43" column="3" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1306242141/1968998224/adweb/djangosite/auth/util.py" timestamp="1543115213836">
         <mark key="'" line="471" column="19" />
@@ -150,12 +150,12 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543203674626">
+      <file name="$USER_HOME$/repos/dawn/dal/template_dal.py" timestamp="1543208701094">
         <mark key="'" line="325" column="52" />
-        <mark key="[" line="217" column="19" />
-        <mark key="]" line="217" column="24" />
-        <mark key="." line="217" column="24" />
-        <mark key="^" line="217" column="24" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="." line="289" column="0" />
+        <mark key="^" line="289" column="29" />
       </file>
       <file name="$USER_HOME$/repos/dawn/common/semver.py" timestamp="1542804617765">
         <mark key="'" line="6" column="0" />
@@ -292,40 +292,40 @@
         <text>get_nsq_reader</text>
       </register>
       <register name="-" type="4">
-        <text>template</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VmFsdWVFcnJvciA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVybChyJ151cGRhdGUvJCcsIHRlbXBsYXRlLnVwZGF0ZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ld190ZW1wbGF0ZS5wcm9kdWN0X2lkID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlID0gdGVtcGxhdGVfZGFsLmdldF90ZW1wbGF0ZV9saXN0KGlkcz1bdGVtcGxhdGVfaWRdKQogICAgYXNzZXJ0IGxlbih0ZW1wbGF0ZSkgPj0gMSwgdSd0ZW1wbGF0ZeS4jeWtmOWcqCcKICAgIGRhdGEgPSB0ZW1wbGF0ZVswXQogICAgcmV0dXJuIGpzb25fc3VjY2Vzc19yZXNwb25zZShkYXRhKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCB0ZW1wbGF0ZV9pZCwgdSflj4LmlbDplJnor68nCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBBcGlFeGNlcHRpb24KCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlID0gdGVtcGxhdGVfZGFsLmdldF90ZW1wbGF0ZV9saXN0KGlkcz1bdGVtcGxhdGVfaWRdKQogICAgYXNzZXJ0IGxlbih0ZW1wbGF0ZSkgPj0gMSwgdSd0ZW1wbGF0ZeS4jeWtmOWcqCcKICAgIGRhdGEgPSB0ZW1wbGF0ZVswXQogICAgcmV0dXJuIGpzb25fc3VjY2Vzc19yZXNwb25zZShkYXRhKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCB0ZW1wbGF0ZV9pZCwgdSflj4LmlbDplJnor68nCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBBcGlFeGNlcHRpb24KCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IGdldF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pZCwgc2Vzc2lvbj1zZXNzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IGdldF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pZCwgc2Vzc2lvbj1zZXNzaW9uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBuZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
